@@ -1,0 +1,601 @@
+Order_ID,Order_Date,Region,City,Sales_Channel,Customer_Segment,Sales_Rep,Product,Category,Quantity,Unit_Price_INR,Discount_Rate,Revenue_INR,Estimated_Cost_INR,Profit_INR,Calculated_Revenue,Calculated_Profit,Profit_Margin,Order_Month
+ORD-0001,2025-11-24,South,Chennai,Online,Corporate,Priya Verma,Wireless Mouse,Accessories,1,831.73,0.15,706.97,565.58,141.39,706.97,141.39,0.19999434205128927,Nov-2025
+ORD-0002,2025-10-30,South,Bengaluru,Retail Store,Corporate,Vihaan Gupta,Headphones,Accessories,1,2287.48,0.0,2287.48,1601.24,686.24,2287.48,686.24,0.29999825135083147,Oct-2025
+ORD-0003,2025-04-23,North,Jaipur,Marketplace,Small Business,Kabir Mehta,Printer,Electronics,10,10322.54,0.05,98064.13,86709.34,11354.79,98064.13,11354.79,0.11578943289457623,Apr-2025
+ORD-0004,2025-03-21,North,Dehradun,Corporate Sales,Corporate,Kabir Mehta,Monitor,Electronics,6,11912.31,0.0,71473.86,58608.57,12865.29,71473.86,12865.29,0.1799999328425805,Mar-2025
+ORD-0005,2025-01-23,West,Mumbai,Corporate Sales,Corporate,Isha Kapoor,Printer,Electronics,9,10547.11,0.0,94923.99,79736.15,15187.84,94923.99,15187.84,0.1600000168555915,Jan-2025
+ORD-0006,2025-10-23,South,Hyderabad,Online,Consumer,Priya Verma,Monitor,Electronics,12,11830.19,0.0,141962.28,116409.07,25553.21,141962.28,25553.21,0.17999999718235013,Oct-2025
+ORD-0007,2025-07-14,South,Hyderabad,Corporate Sales,Consumer,Kabir Mehta,Office Chair,Furniture,8,8242.85,0.15,56051.38,51435.38,4616.0,56051.38,4616.0,0.08235301253956638,Jul-2025
+ORD-0008,2025-12-26,South,Chennai,Marketplace,Small Business,Kabir Mehta,Wireless Mouse,Accessories,10,819.37,0.15,6964.65,5571.72,1392.93,6964.64,1392.92,0.19999885134048564,Dec-2025
+ORD-0009,2025-11-24,North,Jaipur,Online,Small Business,Vihaan Gupta,Webcam,Accessories,4,3153.28,0.15,10721.15,9459.84,1261.31,10721.15,1261.31,0.11764689422310107,Nov-2025
+ORD-0010,2025-05-18,East,Patna,Marketplace,Small Business,Sara Khan,Wireless Mouse,Accessories,4,903.29,0.1,3251.84,2456.95,794.89,3251.84,794.89,0.24444314603424522,May-2025
+ORD-0011,2025-03-15,East,Guwahati,Marketplace,Small Business,Ananya Joshi,Office Chair,Furniture,3,8145.53,0.02,23947.86,19060.54,4887.32,23947.86,4887.32,0.20408170082838298,Mar-2025
+ORD-0012,2025-03-12,North,Jaipur,Retail Store,Corporate,Vihaan Gupta,Webcam,Accessories,8,3346.59,0.0,26772.72,20079.54,6693.18,26772.72,6693.18,0.25,Mar-2025
+ORD-0013,2025-11-02,West,Ahmedabad,Online,Corporate,Priya Verma,Wireless Mouse,Accessories,7,869.91,0.08,5602.22,4140.77,1461.45,5602.22,1461.45,0.2608697980443467,Nov-2025
+ORD-0014,2025-12-16,East,Guwahati,Retail Store,Small Business,Aarav Sharma,Webcam,Accessories,5,3160.4,0.15,13431.7,11851.5,1580.2,13431.7,1580.2,0.11764705882352941,Dec-2025
+ORD-0015,2025-05-15,East,Patna,Retail Store,Small Business,Rohan Singh,Webcam,Accessories,3,3416.86,0.1,9225.52,7687.93,1537.59,9225.52,1537.59,0.16666702798324645,May-2025
+ORD-0016,2025-10-04,North,Delhi,Corporate Sales,Small Business,Ananya Joshi,Webcam,Accessories,1,3153.22,0.1,2837.9,2364.91,472.99,2837.9,472.99,0.1666690158215582,Oct-2025
+ORD-0017,2025-01-30,West,Mumbai,Retail Store,Consumer,Sara Khan,Monitor,Electronics,10,11899.89,0.0,118998.9,97579.1,21419.8,118998.9,21419.8,0.17999998319312197,Jan-2025
+ORD-0018,2025-10-09,West,Unknown,Retail Store,Corporate,Kabir Mehta,Keyboard,Accessories,5,1911.85,0.1,8603.33,6882.66,1720.67,8603.33,1720.67,0.20000046493625143,Oct-2025
+ORD-0019,2025-07-24,South,Chennai,Online,Small Business,Aarav Sharma,Desk,Furniture,8,6420.53,0.1,46227.82,41091.39,5136.43,46227.82,5136.43,0.11111123128886459,Jul-2025
+ORD-0020,2025-10-29,North,Delhi,Retail Store,Consumer,Aarav Sharma,Webcam,Accessories,4,3106.66,0.1,11183.98,9319.98,1864.0,11183.98,1864.0,0.1666669647120256,Oct-2025
+ORD-0021,2025-06-19,West,Pune,Retail Store,Corporate,Sara Khan,Wireless Mouse,Accessories,9,832.14,0.02,7339.47,5092.7,2246.77,7339.47,2246.77,0.30612155918615375,Jun-2025
+ORD-0022,2025-05-05,West,Ahmedabad,Marketplace,Small Business,Sara Khan,Printer,Electronics,7,9341.41,0.02,64082.07,54927.49,9154.58,64082.07,9154.58,0.14285712056430136,May-2025
+ORD-0023,2025-01-28,North,Jaipur,Retail Store,Consumer,Sara Khan,Wireless Mouse,Accessories,1,885.66,0.08,814.81,602.25,212.56,814.81,212.56,0.2608706324173734,Jan-2025
+ORD-0024,2025-03-13,North,Chandigarh,Online,Consumer,Aarav Sharma,Headphones,Accessories,3,2411.44,0.05,6872.6,5064.02,1808.58,6872.6,1808.58,0.2631580479003579,Mar-2025
+ORD-0025,2025-02-17,South,Kochi,Online,Consumer,Vihaan Gupta,Monitor,Electronics,3,12599.87,0.08,34775.64,30995.68,3779.96,34775.64,3779.96,0.1086956271689033,Feb-2025
+ORD-0026,2025-01-02,West,Pune,Retail Store,Small Business,Ananya Joshi,Headphones,Accessories,5,2351.84,0.08,10818.46,8231.44,2587.02,10818.46,2587.02,0.23913015345991945,Jan-2025
+ORD-0027,2025-01-30,East,Kolkata,Online,Corporate,Sara Khan,External SSD,Electronics,12,5880.91,0.1,63513.83,55751.03,7762.8,63513.83,7762.8,0.12222219948001876,Jan-2025
+ORD-0028,2025-09-15,North,Jaipur,Online,Corporate,Priya Verma,Webcam,Accessories,3,3438.43,0.0,10315.29,7736.47,2578.82,10315.29,2578.82,0.24999975764132662,Sep-2025
+ORD-0029,2025-12-12,South,Bengaluru,Online,Small Business,Isha Kapoor,Monitor,Electronics,7,13397.79,0.0,93784.53,76903.31,16881.22,93784.53,16881.22,0.1800000490486011,Dec-2025
+ORD-0030,2025-05-14,East,Guwahati,Retail Store,Corporate,Kabir Mehta,Monitor,Electronics,11,12299.82,0.15,115003.32,110944.38,4058.94,115003.32,4058.94,0.0352941115091286,May-2025
+ORD-0031,2025-08-23,North,Delhi,Retail Store,Corporate,Kabir Mehta,Desk,Furniture,2,6426.62,0.0,12853.24,10282.59,2570.65,12853.24,2570.65,0.20000015560278966,Aug-2025
+ORD-0032,2025-03-09,South,Kochi,Corporate Sales,Corporate,Aarav Sharma,Desk,Furniture,2,6347.1,0.02,12440.32,10155.36,2284.96,12440.32,2284.96,0.18367373186541827,Mar-2025
+ORD-0033,2025-12-08,South,Hyderabad,Online,Consumer,Rohan Singh,Webcam,Accessories,5,3054.41,0.15,12981.24,11454.04,1527.2,12981.24,1527.2,0.11764669630944348,Dec-2025
+ORD-0034,2025-05-20,South,Hyderabad,Marketplace,Small Business,Aarav Sharma,Office Chair,Furniture,10,8115.63,0.02,79533.17,63301.91,16231.26,79533.17,16231.26,0.204081642917037,May-2025
+ORD-0035,2025-02-17,South,Hyderabad,Retail Store,Corporate,Sara Khan,Headphones,Accessories,5,2257.19,0.0,11285.95,7900.16,3385.79,11285.95,3385.79,0.30000044302872153,Feb-2025
+ORD-0036,2025-10-10,South,Bengaluru,Corporate Sales,Corporate,Rohan Singh,Headphones,Accessories,9,2293.59,0.0,20642.31,14449.62,6192.69,20642.31,6192.69,0.2999998546674282,Oct-2025
+ORD-0037,2025-08-09,North,Dehradun,Retail Store,Corporate,Ananya Joshi,Keyboard,Accessories,1,1783.89,0.05,1694.7,1284.4,410.3,1694.7,410.3,0.24210774768395588,Aug-2025
+ORD-0038,2025-12-08,West,Pune,Retail Store,Consumer,Rohan Singh,Wireless Mouse,Accessories,6,904.21,0.1,4882.73,3689.18,1193.55,4882.73,1193.55,0.24444317011180222,Dec-2025
+ORD-0039,2025-07-31,West,Pune,Corporate Sales,Consumer,Priya Verma,Laptop,Electronics,3,55610.27,0.15,141806.19,141806.19,0.0,141806.19,0.0,0.0,Jul-2025
+ORD-0040,2025-07-15,West,Ahmedabad,Corporate Sales,Consumer,Ananya Joshi,Laptop,Electronics,8,50332.89,0.02,394609.86,342263.65,52346.21,394609.86,52346.21,0.13265307156795322,Jul-2025
+ORD-0041,2025-01-13,North,Dehradun,Corporate Sales,Corporate,Vihaan Gupta,Monitor,Electronics,7,12237.56,0.05,81379.77,70243.59,11136.18,81379.77,11136.18,0.13684211690448375,Jan-2025
+ORD-0042,2025-12-14,East,Patna,Corporate Sales,Consumer,Priya Verma,Webcam,Accessories,6,3059.67,0.0,18358.02,13768.51,4589.51,18358.02,4589.51,0.2500002723605269,Dec-2025
+ORD-0043,2025-11-02,West,Mumbai,Marketplace,Corporate,Ananya Joshi,Headphones,Accessories,6,2520.24,0.15,12853.22,10585.01,2268.21,12853.22,2268.21,0.1764701763449159,Nov-2025
+ORD-0044,2025-05-11,South,Hyderabad,Marketplace,Consumer,Isha Kapoor,Laptop,Electronics,12,48892.31,0.08,539771.1,498701.56,41069.54,539771.1,41069.54,0.07608695611899192,May-2025
+ORD-0045,2025-11-16,East,Bhubaneswar,Marketplace,Small Business,Vihaan Gupta,Desk,Furniture,11,6660.9,0.0,73269.9,58615.92,14653.98,73269.9,14653.98,0.2,Nov-2025
+ORD-0046,2025-12-23,West,Pune,Corporate Sales,Small Business,Aarav Sharma,Office Chair,Furniture,9,7541.49,0.02,66515.94,52941.26,13574.68,66515.94,13574.68,0.20408160810777085,Dec-2025
+ORD-0047,2025-06-05,East,Guwahati,Marketplace,Small Business,Ananya Joshi,Office Chair,Furniture,4,8190.05,0.08,30139.38,25552.96,4586.42,30139.38,4586.42,0.1521736678060398,Jun-2025
+ORD-0048,2025-09-19,East,Bhubaneswar,Online,Consumer,Kabir Mehta,Printer,Electronics,12,10115.94,0.02,118963.45,101968.68,16994.77,118963.45,16994.77,0.1428570708062014,Sep-2025
+ORD-0049,2025-04-26,West,Mumbai,Marketplace,Small Business,Ananya Joshi,Monitor,Electronics,3,11830.87,0.0,35492.61,29103.94,6388.67,35492.61,6388.67,0.18000000563497584,Apr-2025
+ORD-0050,2025-12-23,North,Delhi,Marketplace,Consumer,Rohan Singh,Headphones,Accessories,8,2337.98,0.08,17207.53,13092.69,4114.84,17207.53,4114.84,0.23913019474613734,Dec-2025
+ORD-0051,2025-12-23,North,Chandigarh,Retail Store,Small Business,Isha Kapoor,Webcam,Accessories,8,3257.72,0.0,26061.76,19546.32,6515.44,26061.76,6515.44,0.25,Dec-2025
+ORD-0052,2025-08-15,West,Pune,Marketplace,Small Business,Kabir Mehta,External SSD,Electronics,12,6198.41,0.1,66942.83,58760.93,8181.9,66942.83,8181.9,0.12222220064493837,Aug-2025
+ORD-0053,2025-05-07,East,Guwahati,Online,Corporate,Kabir Mehta,Office Chair,Furniture,9,8016.41,0.08,66375.87,56275.2,10100.67,66375.87,10100.67,0.15217382461427625,May-2025
+ORD-0054,2025-05-01,North,Jaipur,Retail Store,Consumer,Vihaan Gupta,Office Chair,Furniture,6,8307.19,0.05,47350.98,38877.65,8473.33,47350.98,8473.33,0.1789472995067895,May-2025
+ORD-0055,2025-12-22,West,Ahmedabad,Marketplace,Small Business,Aarav Sharma,Keyboard,Accessories,12,1708.19,0.02,20088.31,14758.76,5329.55,20088.31,5329.55,0.2653060411751909,Dec-2025
+ORD-0056,2025-04-16,North,Chandigarh,Marketplace,Consumer,Isha Kapoor,Headphones,Accessories,7,2573.88,0.1,16215.44,12612.01,3603.43,16215.44,3603.43,0.22222215370042378,Apr-2025
+ORD-0057,2025-06-02,South,Kochi,Retail Store,Small Business,Vihaan Gupta,Headphones,Accessories,7,2507.17,0.1,15795.17,12285.13,3510.04,15795.17,3510.04,0.2222223629122067,Jun-2025
+ORD-0058,2025-09-06,West,Pune,Marketplace,Consumer,Aarav Sharma,Laptop,Electronics,7,53749.4,0.05,357433.51,319808.93,37624.58,357433.51,37624.58,0.10526315789473685,Sep-2025
+ORD-0059,2025-07-21,West,Pune,Marketplace,Consumer,Aarav Sharma,External SSD,Electronics,10,5851.52,0.15,49737.92,46227.01,3510.91,49737.92,3510.91,0.07058819508334888,Jul-2025
+ORD-0060,2025-05-14,East,Guwahati,Corporate Sales,Small Business,Kabir Mehta,Headphones,Accessories,6,2408.78,0.02,14163.63,10116.88,4046.75,14163.63,4046.75,0.2857141848523295,May-2025
+ORD-0061,2025-02-11,East,Patna,Online,Corporate,Aarav Sharma,Printer,Electronics,1,9952.08,0.15,8459.27,8359.75,99.52,8459.27,99.52,0.011764608530050465,Feb-2025
+ORD-0062,2025-01-16,South,Chennai,Marketplace,Corporate,Priya Verma,Monitor,Electronics,4,12837.34,0.0,51349.36,42106.48,9242.88,51349.36,9242.88,0.17999990652269082,Jan-2025
+ORD-0063,2025-10-16,East,Patna,Online,Consumer,Kabir Mehta,Monitor,Electronics,8,12198.43,0.15,82949.32,80021.7,2927.62,82949.32,2927.62,0.03529408077124682,Oct-2025
+ORD-0064,2025-02-25,West,Surat,Retail Store,Consumer,Ananya Joshi,External SSD,Electronics,1,6327.79,0.05,6011.4,4998.95,1012.45,6011.4,1012.45,0.1684216655022125,Feb-2025
+ORD-0065,2025-02-22,North,Dehradun,Marketplace,Corporate,Isha Kapoor,Office Chair,Furniture,11,8211.64,0.1,81295.24,70455.87,10839.37,81295.24,10839.37,0.13333339073726827,Feb-2025
+ORD-0066,2025-02-05,West,Surat,Online,Small Business,Isha Kapoor,Webcam,Accessories,11,3013.67,0.05,31492.85,24862.78,6630.07,31492.85,6630.07,0.21052619880385548,Feb-2025
+ORD-0067,2025-11-22,East,Guwahati,Marketplace,Small Business,Kabir Mehta,Printer,Electronics,12,9809.49,0.02,115359.6,98879.66,16479.94,115359.6,16479.94,0.14285711808986853,Nov-2025
+ORD-0068,2025-06-15,South,Kochi,Marketplace,Small Business,Aarav Sharma,Monitor,Electronics,2,13292.85,0.05,25256.42,21800.27,3456.15,25256.42,3456.15,0.1368424345176395,Jun-2025
+ORD-0069,2025-09-11,East,Bhubaneswar,Corporate Sales,Corporate,Kabir Mehta,Desk,Furniture,3,6206.06,0.08,17128.73,14894.54,2234.19,17128.73,2234.19,0.13043523950695704,Sep-2025
+ORD-0070,2025-10-12,West,Surat,Retail Store,Corporate,Sara Khan,Laptop,Electronics,9,49503.26,0.02,436618.75,378699.94,57918.81,436618.75,57918.81,0.13265305257733434,Oct-2025
+ORD-0071,2025-11-27,South,Kochi,Retail Store,Small Business,Isha Kapoor,Printer,Electronics,8,9339.67,0.0,74717.36,62762.58,11954.78,74717.36,11954.78,0.16000003212104924,Nov-2025
+ORD-0072,2025-08-31,East,Bhubaneswar,Marketplace,Small Business,Kabir Mehta,Webcam,Accessories,9,3198.63,0.05,27348.29,21590.75,5757.54,27348.29,5757.54,0.21052650823872351,Aug-2025
+ORD-0073,2025-05-09,North,Jaipur,Retail Store,Consumer,Sara Khan,Monitor,Electronics,2,12087.02,0.15,20547.93,19822.71,725.22,20547.93,725.22,0.03529406611760893,May-2025
+ORD-0074,2025-05-22,North,Jaipur,Corporate Sales,Consumer,Isha Kapoor,External SSD,Electronics,9,6073.64,0.1,49196.48,43183.58,6012.9,49196.48,6012.9,0.12222215898373215,May-2025
+ORD-0075,2025-04-02,East,Kolkata,Online,Corporate,Kabir Mehta,Office Chair,Furniture,1,7915.28,0.15,6727.99,6173.92,554.07,6727.99,554.07,0.0823529761488944,Apr-2025
+ORD-0076,2025-12-24,North,Dehradun,Marketplace,Small Business,Sara Khan,Keyboard,Accessories,11,1717.85,0.08,17384.64,13605.37,3779.27,17384.64,3779.27,0.21739132935740976,Dec-2025
+ORD-0077,2025-06-24,West,Mumbai,Online,Small Business,Sara Khan,Keyboard,Accessories,1,1929.15,0.05,1832.69,1388.99,443.7,1832.69,443.7,0.24210313801024722,Jun-2025
+ORD-0078,2025-02-07,South,Hyderabad,Online,Consumer,Priya Verma,External SSD,Electronics,11,5874.53,0.15,54926.86,51049.67,3877.19,54926.86,3877.19,0.0705882331522319,Feb-2025
+ORD-0079,2025-10-13,South,Kochi,Marketplace,Small Business,Kabir Mehta,Headphones,Accessories,10,2521.69,0.1,22695.21,17651.83,5043.38,22695.21,5043.38,0.22222222222222224,Oct-2025
+ORD-0080,2025-10-29,North,Jaipur,Retail Store,Small Business,Priya Verma,Headphones,Accessories,5,2464.67,0.1,11091.02,8626.34,2464.68,11091.02,2464.68,0.22222302367140262,Oct-2025
+ORD-0081,2025-03-22,North,Chandigarh,Marketplace,Corporate,Sara Khan,Monitor,Electronics,3,11881.36,0.1,32079.67,29228.15,2851.52,32079.67,2851.52,0.08888869492734808,Mar-2025
+ORD-0082,2025-05-30,West,Mumbai,Retail Store,Small Business,Ananya Joshi,Laptop,Electronics,4,54026.64,0.05,205301.23,183690.58,21610.65,205301.23,21610.65,0.10526312969483914,May-2025
+ORD-0083,2025-08-06,East,Patna,Online,Consumer,Rohan Singh,Wireless Mouse,Accessories,9,876.07,0.02,7726.94,5361.55,2365.39,7726.94,2365.39,0.30612247539129334,Aug-2025
+ORD-0084,2025-06-07,West,Mumbai,Marketplace,Corporate,Kabir Mehta,External SSD,Electronics,12,6627.6,0.1,71578.08,62829.65,8748.43,71578.08,8748.43,0.12222219428070717,Jun-2025
+ORD-0085,2025-12-25,West,Mumbai,Online,Small Business,Isha Kapoor,Headphones,Accessories,5,2437.43,0.1,10968.43,8531.0,2437.43,10968.44,2437.44,0.2222230326281586,Dec-2025
+ORD-0086,2025-11-06,North,Dehradun,Online,Consumer,Sara Khan,Office Chair,Furniture,1,7581.99,0.0,7581.99,5913.95,1668.04,7581.99,1668.04,0.2200002901612901,Nov-2025
+ORD-0087,2025-09-23,West,Surat,Online,Small Business,Isha Kapoor,Printer,Electronics,5,10579.81,0.02,51841.07,44435.2,7405.87,51841.07,7405.87,0.14285719797064375,Sep-2025
+ORD-0088,2025-07-29,South,Hyderabad,Marketplace,Corporate,Sara Khan,Desk,Furniture,6,6109.72,0.15,31159.57,29326.66,1832.91,31159.57,1832.91,0.058823340630182,Jul-2025
+ORD-0089,2025-05-28,East,Bhubaneswar,Corporate Sales,Consumer,Vihaan Gupta,Headphones,Accessories,9,2408.82,0.0,21679.38,15175.57,6503.81,21679.38,6503.81,0.29999981549287846,May-2025
+ORD-0090,2025-09-21,North,Jaipur,Corporate Sales,Corporate,Sara Khan,Laptop,Electronics,11,52243.19,0.1,517207.58,488473.83,28733.75,517207.58,28733.75,0.05555554696240144,Sep-2025
+ORD-0091,2025-11-17,South,Hyderabad,Marketplace,Corporate,Sara Khan,Printer,Electronics,1,9578.4,0.02,9386.83,8045.86,1340.97,9386.83,1340.97,0.1428565341015018,Nov-2025
+ORD-0092,2025-03-04,South,Hyderabad,Online,Corporate,Vihaan Gupta,Laptop,Electronics,11,54699.0,0.1,541520.1,511435.65,30084.45,541520.1,30084.45,0.05555555555555556,Mar-2025
+ORD-0093,2025-02-17,South,Kochi,Corporate Sales,Corporate,Kabir Mehta,Monitor,Electronics,2,13407.36,0.08,24669.54,21988.07,2681.47,24669.54,2681.47,0.10869558167683709,Feb-2025
+ORD-0094,2025-08-01,South,Kochi,Retail Store,Corporate,Rohan Singh,Printer,Electronics,8,9838.71,0.02,77135.49,66116.13,11019.36,77135.49,11019.36,0.14285719841800448,Aug-2025
+ORD-0095,2025-02-05,East,Kolkata,Corporate Sales,Corporate,Kabir Mehta,Office Chair,Furniture,7,8352.2,0.05,55542.13,45603.01,9939.12,55542.13,9939.12,0.17894740442975451,Feb-2025
+ORD-0096,2025-10-28,West,Surat,Corporate Sales,Small Business,Vihaan Gupta,External SSD,Electronics,11,6579.05,0.08,66579.99,57171.94,9408.05,66579.99,9408.05,0.14130446700277363,Oct-2025
+ORD-0097,2025-08-22,West,Pune,Marketplace,Consumer,Isha Kapoor,Desk,Furniture,4,6229.97,0.15,21181.9,19935.9,1246.0,21181.9,1246.0,0.0588238071183416,Aug-2025
+ORD-0098,2025-08-31,South,Kochi,Online,Consumer,Isha Kapoor,Headphones,Accessories,7,2522.24,0.15,15007.33,12358.98,2648.35,15007.33,2648.35,0.17647043144916516,Aug-2025
+ORD-0099,2025-02-21,North,Jaipur,Marketplace,Corporate,Rohan Singh,Printer,Electronics,2,10461.13,0.1,18830.03,17574.7,1255.33,18830.03,1255.33,0.06666638343114695,Feb-2025
+ORD-0100,2025-02-08,West,Mumbai,Corporate Sales,Corporate,Vihaan Gupta,Printer,Electronics,5,10067.11,0.05,47818.77,42281.86,5536.91,47818.77,5536.91,0.1157894692816231,Feb-2025
+ORD-0101,2025-06-12,South,Hyderabad,Retail Store,Corporate,Priya Verma,Printer,Electronics,9,10059.15,0.0,90532.35,76047.17,14485.18,90532.35,14485.18,0.1600000441831014,Jun-2025
+ORD-0102,2025-08-11,West,Pune,Corporate Sales,Consumer,Aarav Sharma,Wireless Mouse,Accessories,11,902.84,0.15,8441.55,6753.24,1688.31,8441.55,1688.31,0.2,Aug-2025
+ORD-0103,2025-06-16,South,Chennai,Marketplace,Corporate,Rohan Singh,Laptop,Electronics,5,51608.84,0.05,245141.99,219337.57,25804.42,245141.99,25804.42,0.10526315789473684,Jun-2025
+ORD-0104,2025-03-29,South,Unknown,Retail Store,Consumer,Sara Khan,Keyboard,Accessories,2,1911.45,0.1,3440.61,2752.49,688.12,3440.61,688.12,0.19999941870772914,Mar-2025
+ORD-0105,2025-11-23,West,Ahmedabad,Retail Store,Consumer,Sara Khan,Office Chair,Furniture,8,8060.19,0.05,61257.44,50295.59,10961.85,61257.44,10961.85,0.1789472429797915,Nov-2025
+ORD-0106,2025-06-26,East,Guwahati,Corporate Sales,Consumer,Vihaan Gupta,External SSD,Electronics,5,6663.04,0.15,28317.92,26319.01,1998.91,28317.92,1998.91,0.07058816466746146,Jun-2025
+ORD-0107,2025-09-05,East,Bhubaneswar,Online,Corporate,Vihaan Gupta,Wireless Mouse,Accessories,4,867.06,0.08,3190.78,2358.4,832.38,3190.78,832.38,0.26087038279041486,Sep-2025
+ORD-0108,2025-05-21,North,Chandigarh,Corporate Sales,Consumer,Isha Kapoor,Laptop,Electronics,10,54546.11,0.15,463641.93,463641.93,0.0,463641.93,0.0,0.0,May-2025
+ORD-0109,2025-04-23,South,Bengaluru,Online,Small Business,Sara Khan,Monitor,Electronics,10,12936.09,0.05,122892.85,106075.94,16816.91,122892.86,16816.92,0.13684212410712876,Apr-2025
+ORD-0110,2025-01-18,East,Bhubaneswar,Marketplace,Consumer,Ananya Joshi,External SSD,Electronics,6,5942.07,0.15,30304.56,28165.41,2139.15,30304.56,2139.15,0.07058838669823947,Jan-2025
+ORD-0111,2025-03-09,East,Patna,Corporate Sales,Small Business,Kabir Mehta,Webcam,Accessories,6,3232.8,0.1,17457.12,14547.6,2909.52,17457.12,2909.52,0.16666666666666669,Mar-2025
+ORD-0112,2025-06-23,South,Kochi,Corporate Sales,Consumer,Vihaan Gupta,Wireless Mouse,Accessories,8,815.75,0.0,6526.0,4437.68,2088.32,6526.0,2088.32,0.32,Jun-2025
+ORD-0113,2025-01-08,East,Guwahati,Corporate Sales,Consumer,Ananya Joshi,Office Chair,Furniture,9,7828.63,0.0,70457.67,54956.98,15500.69,70457.67,15500.69,0.22000003690158929,Jan-2025
+ORD-0114,2025-08-30,South,Bengaluru,Marketplace,Corporate,Kabir Mehta,Laptop,Electronics,10,51267.89,0.1,461411.01,435777.07,25633.94,461411.01,25633.94,0.05555554471922982,Aug-2025
+ORD-0115,2025-11-29,North,Dehradun,Marketplace,Consumer,Priya Verma,Headphones,Accessories,2,2271.24,0.02,4451.63,3179.74,1271.89,4451.63,1271.89,0.2857133229850639,Nov-2025
+ORD-0116,2025-05-01,West,Pune,Marketplace,Corporate,Priya Verma,Webcam,Accessories,3,3211.23,0.08,8862.99,7225.27,1637.72,8862.99,1637.72,0.18478188512003285,May-2025
+ORD-0117,2025-09-08,East,Patna,Marketplace,Small Business,Ananya Joshi,External SSD,Electronics,7,5856.4,0.05,38945.06,32385.89,6559.17,38945.06,6559.17,0.1684211039859741,Sep-2025
+ORD-0118,2025-07-05,East,Kolkata,Marketplace,Small Business,Ananya Joshi,Wireless Mouse,Accessories,11,863.79,0.05,9026.61,6461.15,2565.46,9026.61,2565.46,0.28421079452862147,Jul-2025
+ORD-0119,2025-03-04,North,Delhi,Corporate Sales,Consumer,Rohan Singh,Printer,Electronics,2,9503.01,0.15,16155.12,15965.06,190.06,16155.12,190.06,0.011764691317675139,Mar-2025
+ORD-0120,2025-10-17,South,Chennai,Corporate Sales,Consumer,Aarav Sharma,Monitor,Electronics,2,12112.53,0.1,21802.55,19864.55,1938.0,21802.55,1938.0,0.08888868503913533,Oct-2025
+ORD-0121,2025-05-22,South,Bengaluru,Online,Consumer,Aarav Sharma,Keyboard,Accessories,3,1755.16,0.1,4738.93,3791.15,947.78,4738.93,947.78,0.19999873389140585,May-2025
+ORD-0122,2025-07-03,East,Kolkata,Retail Store,Corporate,Vihaan Gupta,Monitor,Electronics,10,11777.62,0.05,111887.39,96576.48,15310.91,111887.39,15310.91,0.13684214101338854,Jul-2025
+ORD-0123,2025-09-27,East,Kolkata,Marketplace,Corporate,Ananya Joshi,Wireless Mouse,Accessories,12,855.67,0.0,10268.04,6982.27,3285.77,10268.04,3285.77,0.31999972730920406,Sep-2025
+ORD-0124,2025-11-11,West,Mumbai,Online,Small Business,Vihaan Gupta,Laptop,Electronics,12,52676.16,0.15,537296.83,537296.83,0.0,537296.83,0.0,0.0,Nov-2025
+ORD-0125,2025-08-07,North,Delhi,Corporate Sales,Corporate,Rohan Singh,Wireless Mouse,Accessories,8,907.25,0.15,6169.3,4935.44,1233.86,6169.3,1233.86,0.19999999999999998,Aug-2025
+ORD-0126,2025-02-03,East,Guwahati,Corporate Sales,Small Business,Vihaan Gupta,Keyboard,Accessories,5,1851.54,0.1,8331.93,6665.54,1666.39,8331.93,1666.39,0.20000048008084562,Feb-2025
+ORD-0127,2025-02-20,South,Kochi,Marketplace,Consumer,Vihaan Gupta,Wireless Mouse,Accessories,11,903.45,0.15,8447.26,6757.81,1689.45,8447.26,1689.45,0.19999976323683655,Feb-2025
+ORD-0128,2025-06-23,East,Guwahati,Corporate Sales,Corporate,Kabir Mehta,Printer,Electronics,7,10213.03,0.08,65771.91,60052.62,5719.29,65771.91,5719.29,0.08695642258222393,Jun-2025
+ORD-0129,2025-07-11,North,Delhi,Marketplace,Consumer,Isha Kapoor,Keyboard,Accessories,11,1708.92,0.08,17294.27,13534.65,3759.62,17294.27,3759.62,0.21739107808540054,Jul-2025
+ORD-0130,2025-03-08,East,Kolkata,Marketplace,Small Business,Vihaan Gupta,Webcam,Accessories,1,3436.57,0.1,3092.91,2577.43,515.48,3092.91,515.48,0.16666505006611898,Mar-2025
+ORD-0131,2025-01-27,South,Chennai,Marketplace,Consumer,Priya Verma,Office Chair,Furniture,10,7716.0,0.05,73302.0,60184.8,13117.2,73302.0,13117.2,0.17894736842105263,Jan-2025
+ORD-0132,2025-06-29,South,Kochi,Online,Corporate,Kabir Mehta,Webcam,Accessories,6,3349.65,0.0,20097.9,15073.43,5024.47,20097.9,5024.47,0.24999975121778892,Jun-2025
+ORD-0133,2025-01-15,East,Bhubaneswar,Online,Consumer,Rohan Singh,Keyboard,Accessories,5,1884.13,0.15,8007.55,6782.87,1224.68,8007.55,1224.68,0.15294066225000155,Jan-2025
+ORD-0134,2025-10-17,North,Delhi,Retail Store,Small Business,Vihaan Gupta,Headphones,Accessories,2,2504.97,0.02,4909.74,3506.96,1402.78,4909.74,1402.78,0.28571370378064825,Oct-2025
+ORD-0135,2025-08-21,East,Kolkata,Online,Consumer,Rohan Singh,Desk,Furniture,3,6295.23,0.05,17941.41,15108.55,2832.86,17941.41,2832.86,0.1578950595298809,Aug-2025
+ORD-0136,2025-11-13,West,Surat,Marketplace,Small Business,Kabir Mehta,Laptop,Electronics,11,50860.91,0.0,559470.01,475549.51,83920.5,559470.01,83920.5,0.14999999731889113,Nov-2025
+ORD-0137,2025-04-21,East,Guwahati,Corporate Sales,Consumer,Ananya Joshi,Webcam,Accessories,2,3200.6,0.05,6081.14,4800.9,1280.24,6081.14,1280.24,0.21052631578947367,Apr-2025
+ORD-0138,2025-07-22,South,Chennai,Corporate Sales,Small Business,Isha Kapoor,External SSD,Electronics,1,6005.44,0.0,6005.44,4744.3,1261.14,6005.44,1261.14,0.20999960036233817,Jul-2025
+ORD-0139,2025-03-03,South,Kochi,Retail Store,Corporate,Isha Kapoor,Laptop,Electronics,8,52015.17,0.15,353703.16,353703.16,0.0,353703.16,0.0,0.0,Mar-2025
+ORD-0140,2025-02-06,West,Mumbai,Corporate Sales,Corporate,Vihaan Gupta,Headphones,Accessories,12,2402.57,0.0,28830.84,20181.59,8649.25,28830.84,8649.25,0.29999993062983943,Feb-2025
+ORD-0141,2025-10-21,North,Chandigarh,Online,Small Business,Rohan Singh,Headphones,Accessories,12,2396.35,0.15,24442.77,20129.34,4313.43,24442.77,4313.43,0.17647058823529413,Oct-2025
+ORD-0142,2025-11-13,North,Jaipur,Marketplace,Corporate,Vihaan Gupta,Printer,Electronics,12,9332.91,0.05,106395.17,94075.73,12319.44,106395.17,12319.44,0.1157894667586884,Nov-2025
+ORD-0143,2025-09-26,South,Hyderabad,Retail Store,Consumer,Priya Verma,Wireless Mouse,Accessories,7,887.75,0.05,5903.54,4225.69,1677.85,5903.54,1677.85,0.2842108294345427,Sep-2025
+ORD-0144,2025-09-29,South,Chennai,Online,Consumer,Kabir Mehta,Webcam,Accessories,4,3165.29,0.05,12028.1,9495.87,2532.23,12028.1,2532.23,0.21052618451792054,Sep-2025
+ORD-0145,2025-04-12,North,Jaipur,Marketplace,Small Business,Sara Khan,Keyboard,Accessories,10,1883.57,0.02,18458.99,13561.7,4897.29,18458.99,4897.29,0.2653064983512099,Apr-2025
+ORD-0146,2025-12-15,East,Bhubaneswar,Retail Store,Small Business,Priya Verma,External SSD,Electronics,11,6684.31,0.15,62498.3,58086.65,4411.65,62498.3,4411.65,0.07058832000230406,Dec-2025
+ORD-0147,2025-08-29,North,Dehradun,Online,Small Business,Sara Khan,Printer,Electronics,11,10304.56,0.05,107682.65,95214.13,12468.52,107682.65,12468.52,0.11578949812249235,Aug-2025
+ORD-0148,2025-08-20,North,Delhi,Marketplace,Small Business,Aarav Sharma,Laptop,Electronics,1,54934.75,0.05,52188.01,46694.54,5493.47,52188.01,5493.47,0.10526306712978709,Aug-2025
+ORD-0149,2025-08-19,West,Pune,Online,Small Business,Priya Verma,External SSD,Electronics,11,6107.09,0.02,65834.43,53070.61,12763.82,65834.43,12763.82,0.19387758046967218,Aug-2025
+ORD-0150,2025-06-25,South,Kochi,Marketplace,Corporate,Rohan Singh,Wireless Mouse,Accessories,9,819.53,0.15,6269.4,5015.52,1253.88,6269.4,1253.88,0.20000000000000004,Jun-2025
+ORD-0151,2025-07-06,East,Kolkata,Corporate Sales,Consumer,Isha Kapoor,Desk,Furniture,5,6382.26,0.08,29358.4,25529.04,3829.36,29358.4,3829.36,0.13043490108452777,Jul-2025
+ORD-0152,2025-02-18,South,Hyderabad,Online,Corporate,Rohan Singh,Webcam,Accessories,11,3135.3,0.08,31729.24,25866.23,5863.01,31729.24,5863.01,0.18478255388405143,Feb-2025
+ORD-0153,2025-06-29,South,Bengaluru,Corporate Sales,Corporate,Vihaan Gupta,Office Chair,Furniture,11,8055.05,0.15,75314.72,69112.33,6202.39,75314.72,6202.39,0.08235295835926895,Jun-2025
+ORD-0154,2025-11-26,North,Chandigarh,Corporate Sales,Consumer,Isha Kapoor,Desk,Furniture,3,6645.74,0.15,16946.64,15949.78,996.86,16946.64,996.86,0.05882345998970888,Nov-2025
+ORD-0155,2025-06-08,West,Pune,Retail Store,Consumer,Rohan Singh,Keyboard,Accessories,4,1930.81,0.05,7337.08,5560.73,1776.35,7337.08,1776.35,0.2421058513741161,Jun-2025
+ORD-0156,2025-02-09,North,Dehradun,Retail Store,Corporate,Vihaan Gupta,Office Chair,Furniture,2,8173.8,0.1,14712.84,12751.13,1961.71,14712.84,1961.71,0.13333319739764724,Feb-2025
+ORD-0157,2025-03-20,South,Kochi,Online,Small Business,Isha Kapoor,Keyboard,Accessories,3,1886.32,0.15,4810.12,4074.45,735.67,4810.12,735.67,0.15294213034186258,Mar-2025
+ORD-0158,2025-12-13,West,Pune,Retail Store,Small Business,Sara Khan,Monitor,Electronics,8,12248.62,0.1,88190.06,80350.95,7839.11,88190.06,7839.11,0.08888881581438997,Dec-2025
+ORD-0159,2025-04-10,West,Ahmedabad,Marketplace,Corporate,Vihaan Gupta,Desk,Furniture,11,6898.06,0.1,68290.79,60702.93,7587.86,68290.79,7587.86,0.11111102975964988,Apr-2025
+ORD-0160,2025-03-24,North,Chandigarh,Corporate Sales,Corporate,Priya Verma,Monitor,Electronics,10,13277.75,0.02,130121.95,108877.55,21244.4,130121.95,21244.4,0.163265306122449,Mar-2025
+ORD-0161,2025-12-31,South,Hyderabad,Marketplace,Corporate,Rohan Singh,Webcam,Accessories,2,3045.58,0.05,5786.6,4568.37,1218.23,5786.6,1218.23,0.21052604292676183,Dec-2025
+ORD-0162,2025-08-12,North,Chandigarh,Online,Small Business,Isha Kapoor,Wireless Mouse,Accessories,4,904.27,0.08,3327.71,2459.61,868.1,3327.71,868.1,0.260870087838183,Aug-2025
+ORD-0163,2025-05-01,East,Kolkata,Corporate Sales,Consumer,Rohan Singh,Headphones,Accessories,2,2331.45,0.05,4429.75,3264.03,1165.72,4429.75,1165.72,0.26315706303967495,May-2025
+ORD-0164,2025-01-20,West,Surat,Online,Consumer,Aarav Sharma,Office Chair,Furniture,8,8239.57,0.15,56029.08,51414.92,4614.16,56029.08,4614.16,0.08235294957547044,Jan-2025
+ORD-0165,2025-05-12,West,Mumbai,Corporate Sales,Consumer,Kabir Mehta,Monitor,Electronics,3,13395.4,0.1,36167.58,32952.68,3214.9,36167.58,3214.9,0.08888899948517429,May-2025
+ORD-0166,2025-03-04,West,Mumbai,Online,Small Business,Aarav Sharma,Laptop,Electronics,4,53531.57,0.08,196996.18,182007.34,14988.84,196996.18,14988.84,0.0760869576252697,Mar-2025
+ORD-0167,2025-11-20,East,Guwahati,Online,Corporate,Isha Kapoor,Webcam,Accessories,10,3329.91,0.02,32633.12,24974.32,7658.8,32633.12,7658.8,0.23469407767323505,Nov-2025
+ORD-0168,2025-05-04,North,Dehradun,Online,Corporate,Aarav Sharma,External SSD,Electronics,7,6404.67,0.02,43936.04,35417.83,8518.21,43936.04,8518.21,0.19387750921566893,May-2025
+ORD-0169,2025-07-19,East,Bhubaneswar,Online,Small Business,Priya Verma,Printer,Electronics,1,9742.8,0.15,8281.38,8183.95,97.43,8281.38,97.43,0.011764947387995722,Jul-2025
+ORD-0170,2025-06-26,East,Patna,Online,Small Business,Isha Kapoor,Monitor,Electronics,12,12849.45,0.15,131064.39,126438.59,4625.8,131064.39,4625.8,0.03529410238738379,Jun-2025
+ORD-0171,2025-11-26,West,Pune,Retail Store,Consumer,Sara Khan,Keyboard,Accessories,11,1939.17,0.08,19624.4,15358.23,4266.17,19624.4,4266.17,0.21739110495097938,Nov-2025
+ORD-0172,2025-01-19,North,Dehradun,Corporate Sales,Corporate,Vihaan Gupta,Office Chair,Furniture,4,8195.89,0.0,32783.56,25571.18,7212.38,32783.56,7212.38,0.21999990239010042,Jan-2025
+ORD-0173,2025-10-06,South,Hyderabad,Corporate Sales,Consumer,Isha Kapoor,Printer,Electronics,5,10245.52,0.0,51227.6,43031.18,8196.42,51227.6,8196.42,0.16000007808290845,Oct-2025
+ORD-0174,2025-05-20,West,Surat,Corporate Sales,Consumer,Sara Khan,Wireless Mouse,Accessories,6,904.85,0.08,4994.77,3691.79,1302.98,4994.77,1302.98,0.26086886883680327,May-2025
+ORD-0175,2025-12-21,North,Chandigarh,Online,Small Business,Rohan Singh,Printer,Electronics,6,9577.94,0.1,51720.88,48272.82,3448.06,51720.88,3448.06,0.06666669244606821,Dec-2025
+ORD-0176,2025-10-07,East,Bhubaneswar,Marketplace,Corporate,Vihaan Gupta,Office Chair,Furniture,6,7419.44,0.0,44516.64,34722.98,9793.66,44516.64,9793.66,0.21999998202919177,Oct-2025
+ORD-0177,2025-03-27,East,Guwahati,Corporate Sales,Corporate,Aarav Sharma,Printer,Electronics,6,9270.11,0.08,51171.01,46721.35,4449.66,51171.01,4449.66,0.08695665768567007,Mar-2025
+ORD-0178,2025-02-08,South,Bengaluru,Retail Store,Corporate,Sara Khan,Headphones,Accessories,6,2525.17,0.1,13635.92,10605.71,3030.21,13635.92,3030.21,0.2222226296428844,Feb-2025
+ORD-0179,2025-01-18,East,Bhubaneswar,Marketplace,Corporate,Aarav Sharma,Keyboard,Accessories,2,1888.19,0.02,3700.85,2718.99,981.86,3700.85,981.86,0.2653066187497467,Jan-2025
+ORD-0180,2025-11-06,East,Guwahati,Online,Corporate,Rohan Singh,Keyboard,Accessories,11,1931.1,0.08,19542.73,15294.31,4248.42,19542.73,4248.42,0.21739132659561894,Nov-2025
+ORD-0181,2025-09-29,South,Bengaluru,Online,Corporate,Rohan Singh,Desk,Furniture,7,6598.01,0.05,43876.77,36948.86,6927.91,43876.77,6927.91,0.15789471285147016,Sep-2025
+ORD-0182,2025-09-13,East,Guwahati,Retail Store,Corporate,Kabir Mehta,Webcam,Accessories,7,3060.76,0.1,19282.79,16068.99,3213.8,19282.79,3213.8,0.16666675309952553,Sep-2025
+ORD-0183,2025-12-22,North,Chandigarh,Retail Store,Corporate,Sara Khan,Printer,Electronics,4,9398.22,0.0,37592.88,31578.02,6014.86,37592.88,6014.86,0.15999997871937452,Dec-2025
+ORD-0184,2025-02-14,East,Bhubaneswar,Retail Store,Corporate,Rohan Singh,Desk,Furniture,11,6651.75,0.05,69510.79,58535.4,10975.39,69510.79,10975.39,0.15789476712895942,Feb-2025
+ORD-0185,2025-07-05,South,Chennai,Marketplace,Consumer,Isha Kapoor,Webcam,Accessories,4,3449.34,0.0,13797.36,10348.02,3449.34,13797.36,3449.34,0.25,Jul-2025
+ORD-0186,2025-10-11,South,Bengaluru,Online,Small Business,Vihaan Gupta,External SSD,Electronics,6,6525.58,0.08,36021.2,30931.25,5089.95,36021.2,5089.95,0.14130428747515353,Oct-2025
+ORD-0187,2025-09-03,North,Jaipur,Corporate Sales,Corporate,Priya Verma,Webcam,Accessories,7,3376.86,0.08,21746.98,17728.51,4018.47,21746.98,4018.47,0.18478289859097677,Sep-2025
+ORD-0188,2025-08-19,South,Chennai,Marketplace,Corporate,Aarav Sharma,Printer,Electronics,11,9684.67,0.1,95878.23,89486.35,6391.88,95878.23,6391.88,0.066666645806874,Aug-2025
+ORD-0189,2025-03-05,East,Patna,Corporate Sales,Corporate,Kabir Mehta,Webcam,Accessories,3,3081.77,0.05,8783.04,6933.98,1849.06,8783.04,1849.06,0.2105261959412686,Mar-2025
+ORD-0190,2025-02-10,East,Patna,Corporate Sales,Corporate,Priya Verma,Office Chair,Furniture,4,8376.34,0.15,28479.56,26134.18,2345.38,28479.56,2345.38,0.08235309815179728,Feb-2025
+ORD-0191,2025-09-15,East,Kolkata,Online,Consumer,Aarav Sharma,Keyboard,Accessories,10,1730.86,0.1,15577.74,12462.19,3115.55,15577.74,3115.55,0.20000012838832848,Sep-2025
+ORD-0192,2025-11-25,West,Mumbai,Marketplace,Corporate,Kabir Mehta,External SSD,Electronics,5,6010.98,0.15,25546.66,23743.37,1803.29,25546.66,1803.29,0.07058809253342707,Nov-2025
+ORD-0193,2025-11-25,West,Ahmedabad,Marketplace,Consumer,Aarav Sharma,Office Chair,Furniture,8,8210.72,0.02,64372.04,51234.89,13137.15,64372.04,13137.15,0.20408161680133174,Nov-2025
+ORD-0194,2025-03-22,East,Patna,Corporate Sales,Corporate,Isha Kapoor,Printer,Electronics,7,9849.21,0.08,63428.91,57913.35,5515.56,63428.91,5515.56,0.0869565628669955,Mar-2025
+ORD-0195,2025-06-26,North,Dehradun,Retail Store,Small Business,Priya Verma,Headphones,Accessories,3,2429.03,0.05,6922.74,5100.96,1821.78,6922.74,1821.78,0.26315880706194367,Jun-2025
+ORD-0196,2025-05-17,East,Guwahati,Marketplace,Consumer,Rohan Singh,Printer,Electronics,4,9344.83,0.02,36631.73,31398.63,5233.1,36631.73,5233.1,0.1428570258625514,May-2025
+ORD-0197,2025-06-17,South,Kochi,Marketplace,Small Business,Kabir Mehta,External SSD,Electronics,12,5992.78,0.05,68317.69,56811.55,11506.14,68317.69,11506.14,0.16842109269209773,Jun-2025
+ORD-0198,2025-09-12,South,Chennai,Corporate Sales,Consumer,Aarav Sharma,Laptop,Electronics,2,52559.64,0.08,96709.74,89351.39,7358.35,96709.74,7358.35,0.07608695876961306,Sep-2025
+ORD-0199,2025-05-25,East,Kolkata,Online,Small Business,Rohan Singh,Printer,Electronics,10,10134.7,0.15,86144.95,85131.48,1013.47,86144.95,1013.47,0.011764705882352943,May-2025
+ORD-0200,2025-05-16,North,Jaipur,Corporate Sales,Corporate,Kabir Mehta,Desk,Furniture,7,6056.54,0.05,40275.99,33916.62,6359.37,40275.99,6359.37,0.15789481524848925,May-2025
+ORD-0201,2025-02-07,East,Kolkata,Retail Store,Consumer,Vihaan Gupta,Headphones,Accessories,9,2512.84,0.08,20806.32,15830.89,4975.43,20806.32,4975.43,0.23913070643919734,Feb-2025
+ORD-0202,2025-07-11,South,Kochi,Online,Consumer,Aarav Sharma,Desk,Furniture,9,6692.45,0.05,57220.45,48185.64,9034.81,57220.45,9034.81,0.1578947736342514,Jul-2025
+ORD-0203,2025-03-12,South,Hyderabad,Corporate Sales,Consumer,Vihaan Gupta,Desk,Furniture,8,6425.46,0.1,46263.31,41122.94,5140.37,46263.31,5140.37,0.11111115914533569,Mar-2025
+ORD-0204,2025-11-12,West,Ahmedabad,Marketplace,Consumer,Isha Kapoor,Office Chair,Furniture,10,7885.99,0.05,74916.9,61510.72,13406.18,74916.9,13406.18,0.17894734031974097,Nov-2025
+ORD-0205,2025-06-19,North,Chandigarh,Corporate Sales,Corporate,Ananya Joshi,Wireless Mouse,Accessories,7,835.61,0.1,5264.34,3977.5,1286.84,5264.34,1286.84,0.24444469772089186,Jun-2025
+ORD-0206,2025-01-27,West,Pune,Retail Store,Consumer,Priya Verma,External SSD,Electronics,8,6283.03,0.02,49258.96,39708.75,9550.21,49258.96,9550.21,0.19387762145201604,Jan-2025
+ORD-0207,2025-04-08,West,Pune,Marketplace,Corporate,Sara Khan,Laptop,Electronics,8,51928.72,0.05,394658.27,353115.3,41542.97,394658.27,41542.97,0.10526314322515021,Apr-2025
+ORD-0208,2025-02-01,West,Surat,Corporate Sales,Consumer,Sara Khan,Keyboard,Accessories,9,1833.34,0.02,16170.06,11880.04,4290.02,16170.06,4290.02,0.2653063748681205,Feb-2025
+ORD-0209,2025-09-30,East,Guwahati,Retail Store,Consumer,Kabir Mehta,Desk,Furniture,9,6621.58,0.05,56614.51,47675.38,8939.13,56614.51,8939.13,0.1578946810632115,Sep-2025
+ORD-0210,2025-10-13,South,Kochi,Corporate Sales,Small Business,Isha Kapoor,Office Chair,Furniture,4,8174.12,0.05,31061.66,25503.25,5558.41,31061.66,5558.41,0.1789476158067534,Oct-2025
+ORD-0211,2025-10-14,West,Surat,Corporate Sales,Consumer,Kabir Mehta,Office Chair,Furniture,5,7958.24,0.0,39791.2,31037.14,8754.06,39791.2,8754.06,0.21999989947526086,Oct-2025
+ORD-0212,2025-01-22,West,Ahmedabad,Marketplace,Consumer,Ananya Joshi,Office Chair,Furniture,12,7710.23,0.0,92522.76,72167.75,20355.01,92522.76,20355.01,0.22000003026282397,Jan-2025
+ORD-0213,2025-10-03,North,Jaipur,Retail Store,Consumer,Ananya Joshi,Office Chair,Furniture,9,7628.61,0.15,58358.87,53552.84,4806.03,58358.87,4806.03,0.08235303390898419,Oct-2025
+ORD-0214,2025-11-23,West,Mumbai,Retail Store,Consumer,Rohan Singh,Monitor,Electronics,1,12473.28,0.0,12473.28,10228.09,2245.19,12473.28,2245.19,0.17999996793145026,Nov-2025
+ORD-0215,2025-07-28,East,Bhubaneswar,Corporate Sales,Corporate,Aarav Sharma,Printer,Electronics,8,9485.65,0.15,64502.42,63743.57,758.85,64502.42,758.85,0.011764674875764353,Jul-2025
+ORD-0216,2025-02-15,North,Jaipur,Marketplace,Consumer,Aarav Sharma,External SSD,Electronics,4,6469.18,0.1,23289.05,20442.61,2846.44,23289.05,2846.44,0.12222224607701904,Feb-2025
+ORD-0217,2025-07-23,East,Kolkata,Online,Small Business,Priya Verma,Printer,Electronics,3,10532.04,0.15,26856.7,26540.74,315.96,26856.7,315.96,0.01176466207687467,Jul-2025
+ORD-0218,2025-06-21,West,Pune,Marketplace,Small Business,Ananya Joshi,Office Chair,Furniture,8,7925.28,0.15,53891.9,49453.75,4438.15,53891.9,4438.15,0.08235282111040805,Jun-2025
+ORD-0219,2025-02-27,East,Patna,Online,Corporate,Isha Kapoor,Desk,Furniture,3,6427.19,0.15,16389.33,15425.26,964.07,16389.33,964.07,0.05882302693276662,Feb-2025
+ORD-0220,2025-06-01,West,Surat,Corporate Sales,Consumer,Vihaan Gupta,External SSD,Electronics,11,5980.33,0.02,64467.96,51969.07,12498.89,64467.96,12498.89,0.19387754785477934,Jun-2025
+ORD-0221,2025-12-09,South,Bengaluru,Corporate Sales,Small Business,Ananya Joshi,Wireless Mouse,Accessories,3,855.82,0.02,2516.11,1745.87,770.24,2516.11,770.24,0.3061233411893757,Dec-2025
+ORD-0222,2025-08-17,North,Dehradun,Corporate Sales,Corporate,Ananya Joshi,Office Chair,Furniture,6,7968.05,0.05,45417.89,37290.47,8127.42,45417.88,8127.41,0.17894736610339365,Aug-2025
+ORD-0223,2025-02-01,East,Kolkata,Corporate Sales,Small Business,Ananya Joshi,Wireless Mouse,Accessories,8,818.01,0.05,6216.88,4449.97,1766.91,6216.88,1766.91,0.2842116946120884,Feb-2025
+ORD-0224,2025-04-23,East,Guwahati,Marketplace,Corporate,Ananya Joshi,Keyboard,Accessories,8,1806.65,0.02,14164.14,10406.3,3757.84,14164.14,3757.84,0.2653066123322701,Apr-2025
+ORD-0225,2025-05-07,East,Kolkata,Online,Consumer,Ananya Joshi,External SSD,Electronics,2,6215.78,0.1,11188.4,9820.93,1367.47,11188.4,1367.47,0.12222212291301705,May-2025
+ORD-0226,2025-10-21,West,Mumbai,Retail Store,Corporate,Sara Khan,Webcam,Accessories,3,3155.0,0.02,9275.7,7098.75,2176.95,9275.7,2176.95,0.23469387755102036,Oct-2025
+ORD-0227,2025-02-16,West,Surat,Online,Corporate,Sara Khan,Webcam,Accessories,8,3211.14,0.0,25689.12,19266.84,6422.28,25689.12,6422.28,0.25,Feb-2025
+ORD-0228,2025-12-11,North,Jaipur,Online,Consumer,Vihaan Gupta,Office Chair,Furniture,12,7764.38,0.0,93172.56,72674.6,20497.96,93172.56,20497.96,0.2199999656551242,Dec-2025
+ORD-0229,2025-06-26,North,Chandigarh,Online,Small Business,Vihaan Gupta,Wireless Mouse,Accessories,9,910.22,0.0,8191.98,5570.55,2621.43,8191.98,2621.43,0.3199995605458021,Jun-2025
+ORD-0230,2025-04-03,West,Ahmedabad,Marketplace,Small Business,Vihaan Gupta,Keyboard,Accessories,11,1854.76,0.15,17342.01,14689.7,2652.31,17342.01,2652.31,0.15294132571714583,Apr-2025
+ORD-0231,2025-07-12,South,Hyderabad,Online,Consumer,Vihaan Gupta,Wireless Mouse,Accessories,11,903.07,0.15,8443.7,6754.96,1688.74,8443.7,1688.74,0.19999999999999998,Jul-2025
+ORD-0232,2025-09-28,North,Dehradun,Marketplace,Corporate,Vihaan Gupta,Keyboard,Accessories,12,1902.38,0.02,22371.99,16436.56,5935.43,22371.99,5935.43,0.26530630489285933,Sep-2025
+ORD-0233,2025-09-30,South,Hyderabad,Retail Store,Corporate,Priya Verma,Headphones,Accessories,4,2410.77,0.02,9450.22,6750.16,2700.06,9450.22,2700.06,0.2857139833781648,Sep-2025
+ORD-0234,2025-01-17,North,Delhi,Online,Small Business,Aarav Sharma,Headphones,Accessories,10,2336.86,0.0,23368.6,16358.02,7010.58,23368.6,7010.58,0.3,Jan-2025
+ORD-0235,2025-05-06,South,Bengaluru,Retail Store,Corporate,Kabir Mehta,Laptop,Electronics,7,50585.99,0.08,325773.78,300986.64,24787.14,325773.78,24787.14,0.07608697053519776,May-2025
+ORD-0236,2025-04-30,East,Patna,Corporate Sales,Consumer,Ananya Joshi,External SSD,Electronics,6,6346.99,0.1,34273.75,30084.73,4189.02,34273.75,4189.02,0.12222240052518328,Apr-2025
+ORD-0237,2025-07-31,South,Kochi,Marketplace,Consumer,Isha Kapoor,Office Chair,Furniture,5,7939.94,0.0,39699.7,30965.77,8733.93,39699.7,8733.93,0.21999989924357113,Jul-2025
+ORD-0238,2025-11-26,West,Pune,Corporate Sales,Small Business,Rohan Singh,Headphones,Accessories,9,2489.96,0.05,21289.16,15686.75,5602.41,21289.16,5602.41,0.26315787001459895,Nov-2025
+ORD-0239,2025-10-03,South,Kochi,Online,Corporate,Vihaan Gupta,Printer,Electronics,4,9624.61,0.02,37728.47,32338.69,5389.78,37728.47,5389.78,0.14285710499259577,Oct-2025
+ORD-0240,2025-08-02,East,Patna,Corporate Sales,Corporate,Priya Verma,Webcam,Accessories,9,3182.01,0.02,28065.33,21478.57,6586.76,28065.33,6586.76,0.23469383755687176,Aug-2025
+ORD-0241,2025-08-19,South,Bengaluru,Corporate Sales,Small Business,Aarav Sharma,Desk,Furniture,2,6665.23,0.1,11997.41,10664.37,1333.04,11997.41,1333.04,0.11111064804820374,Aug-2025
+ORD-0242,2025-02-07,South,Kochi,Retail Store,Small Business,Kabir Mehta,Monitor,Electronics,10,12925.04,0.15,109862.84,105985.33,3877.51,109862.84,3877.51,0.03529409944254126,Feb-2025
+ORD-0243,2025-01-08,West,Pune,Retail Store,Small Business,Ananya Joshi,Monitor,Electronics,4,11955.3,0.15,40648.02,39213.38,1434.64,40648.02,1434.64,0.03529421605283604,Jan-2025
+ORD-0244,2025-10-10,East,Bhubaneswar,Corporate Sales,Small Business,Sara Khan,Desk,Furniture,5,6433.76,0.08,29595.3,25735.04,3860.26,29595.3,3860.26,0.1304349001361703,Oct-2025
+ORD-0245,2025-08-27,East,Patna,Corporate Sales,Small Business,Vihaan Gupta,Wireless Mouse,Accessories,12,889.63,0.08,9821.52,7259.38,2562.14,9821.52,2562.14,0.26087000790101733,Aug-2025
+ORD-0246,2025-01-24,East,Guwahati,Corporate Sales,Consumer,Ananya Joshi,External SSD,Electronics,4,5954.66,0.15,20245.84,18816.73,1429.11,20245.84,1429.11,0.07058783434028916,Jan-2025
+ORD-0247,2025-06-18,West,Ahmedabad,Corporate Sales,Small Business,Sara Khan,Monitor,Electronics,7,13208.38,0.1,83212.79,75816.1,7396.69,83212.79,7396.69,0.08888885951306284,Jun-2025
+ORD-0248,2025-08-24,West,Pune,Online,Corporate,Aarav Sharma,Keyboard,Accessories,12,1734.65,0.05,19775.01,14987.38,4787.63,19775.01,4787.63,0.24210506088239656,Aug-2025
+ORD-0249,2025-02-08,South,Bengaluru,Retail Store,Consumer,Ananya Joshi,Laptop,Electronics,1,49880.94,0.08,45890.46,42398.8,3491.66,45890.46,3491.66,0.07608683809227451,Feb-2025
+ORD-0250,2025-09-16,West,Surat,Online,Consumer,Vihaan Gupta,Printer,Electronics,6,10059.67,0.0,60358.02,50700.74,9657.28,60358.02,9657.28,0.159999946983019,Sep-2025
+ORD-0251,2025-01-07,East,Kolkata,Marketplace,Consumer,Priya Verma,Laptop,Electronics,9,50880.11,0.15,389232.84,389232.84,0.0,389232.84,0.0,0.0,Jan-2025
+ORD-0252,2025-02-19,East,Bhubaneswar,Corporate Sales,Small Business,Priya Verma,Webcam,Accessories,3,3093.99,0.02,9096.33,6961.48,2134.85,9096.33,2134.85,0.23469355223480237,Feb-2025
+ORD-0253,2025-07-11,South,Hyderabad,Online,Corporate,Aarav Sharma,Headphones,Accessories,8,2337.72,0.1,16831.58,13091.23,3740.35,16831.58,3740.35,0.22222215620874566,Jul-2025
+ORD-0254,2025-02-17,North,Delhi,Retail Store,Consumer,Sara Khan,Headphones,Accessories,7,2441.71,0.08,15724.61,11964.38,3760.23,15724.61,3760.23,0.23913025505879001,Feb-2025
+ORD-0255,2025-08-11,North,Jaipur,Retail Store,Corporate,Sara Khan,Desk,Furniture,10,6817.73,0.0,68177.3,54541.84,13635.46,68177.3,13635.46,0.19999999999999998,Aug-2025
+ORD-0256,2025-05-19,North,Jaipur,Corporate Sales,Consumer,Ananya Joshi,Laptop,Electronics,2,55618.26,0.15,94551.04,94551.04,0.0,94551.04,0.0,0.0,May-2025
+ORD-0257,2025-10-28,East,Patna,Retail Store,Corporate,Vihaan Gupta,Keyboard,Accessories,12,1926.08,0.08,21263.92,16641.33,4622.59,21263.92,4622.59,0.21739124300693383,Oct-2025
+ORD-0258,2025-12-13,South,Bengaluru,Corporate Sales,Consumer,Priya Verma,Webcam,Accessories,6,3346.51,0.08,18472.74,15059.3,3413.44,18472.74,3413.44,0.1847825498545424,Dec-2025
+ORD-0259,2025-08-12,West,Ahmedabad,Online,Corporate,Kabir Mehta,Monitor,Electronics,2,12809.05,0.05,24337.19,21006.84,3330.35,24337.19,3330.35,0.13684201010880878,Aug-2025
+ORD-0260,2025-08-19,West,Surat,Retail Store,Corporate,Vihaan Gupta,Printer,Electronics,4,9970.77,0.05,37888.93,33501.79,4387.14,37888.93,4387.14,0.11578949313163503,Aug-2025
+ORD-0261,2025-02-13,North,Dehradun,Retail Store,Small Business,Rohan Singh,External SSD,Electronics,5,6446.98,0.02,31590.2,25465.57,6124.63,31590.2,6124.63,0.1938775316395591,Feb-2025
+ORD-0262,2025-07-19,East,Guwahati,Corporate Sales,Small Business,Priya Verma,Desk,Furniture,6,6098.0,0.0,36588.0,29270.4,7317.6,36588.0,7317.6,0.2,Jul-2025
+ORD-0263,2025-03-09,West,Mumbai,Online,Consumer,Isha Kapoor,Wireless Mouse,Accessories,3,852.41,0.08,2352.65,1738.92,613.73,2352.65,613.73,0.2608675323571292,Mar-2025
+ORD-0264,2025-10-11,West,Mumbai,Corporate Sales,Small Business,Vihaan Gupta,Wireless Mouse,Accessories,10,892.35,0.1,8031.15,6067.98,1963.17,8031.15,1963.17,0.24444444444444446,Oct-2025
+ORD-0265,2025-02-13,West,Pune,Retail Store,Small Business,Kabir Mehta,Webcam,Accessories,4,3241.45,0.1,11669.22,9724.35,1944.87,11669.22,1944.87,0.16666666666666666,Feb-2025
+ORD-0266,2025-05-18,East,Guwahati,Corporate Sales,Small Business,Priya Verma,Printer,Electronics,3,9441.41,0.0,28324.23,23792.35,4531.88,28324.23,4531.88,0.16000011297747546,May-2025
+ORD-0267,2025-07-04,South,Kochi,Online,Consumer,Kabir Mehta,Office Chair,Furniture,4,8014.54,0.15,27249.44,25005.36,2244.08,27249.44,2244.08,0.08235325203013347,Jul-2025
+ORD-0268,2025-01-04,East,Guwahati,Corporate Sales,Small Business,Rohan Singh,Headphones,Accessories,6,2383.64,0.1,12871.66,10011.29,2860.37,12871.66,2860.37,0.22222230854450786,Jan-2025
+ORD-0269,2025-06-03,East,Patna,Marketplace,Small Business,Kabir Mehta,Desk,Furniture,10,6195.96,0.15,52665.66,49567.68,3097.98,52665.66,3097.98,0.058823529411764705,Jun-2025
+ORD-0270,2025-12-22,East,Guwahati,Corporate Sales,Consumer,Ananya Joshi,Printer,Electronics,10,9659.12,0.02,94659.38,81136.61,13522.77,94659.38,13522.77,0.14285715794884776,Dec-2025
+ORD-0271,2025-10-31,North,Chandigarh,Retail Store,Small Business,Kabir Mehta,Webcam,Accessories,3,3351.89,0.15,8547.32,7541.75,1005.57,8547.32,1005.57,0.11764740292863729,Oct-2025
+ORD-0272,2025-12-21,East,Patna,Corporate Sales,Corporate,Rohan Singh,Wireless Mouse,Accessories,7,858.42,0.15,5107.6,4086.08,1021.52,5107.6,1021.52,0.19999999999999998,Dec-2025
+ORD-0273,2025-08-05,West,Surat,Marketplace,Corporate,Aarav Sharma,Headphones,Accessories,2,2588.88,0.08,4763.54,3624.43,1139.11,4763.54,1139.11,0.23913098242063674,Aug-2025
+ORD-0274,2025-07-04,North,Jaipur,Corporate Sales,Consumer,Aarav Sharma,Webcam,Accessories,10,3417.65,0.15,29050.02,25632.38,3417.64,29050.02,3417.64,0.11764673483873676,Jul-2025
+ORD-0275,2025-10-16,North,Dehradun,Retail Store,Corporate,Ananya Joshi,Headphones,Accessories,6,2291.6,0.08,12649.63,9624.72,3024.91,12649.63,3024.91,0.23913031448350663,Oct-2025
+ORD-0276,2025-08-17,South,Hyderabad,Online,Small Business,Priya Verma,Desk,Furniture,7,6708.02,0.08,43199.65,37564.91,5634.74,43199.65,5634.74,0.1304348530601521,Aug-2025
+ORD-0277,2025-06-01,South,Hyderabad,Corporate Sales,Small Business,Sara Khan,Headphones,Accessories,2,2535.32,0.0,5070.64,3549.45,1521.19,5070.64,1521.19,0.29999960557247213,Jun-2025
+ORD-0278,2025-04-16,West,Surat,Corporate Sales,Consumer,Kabir Mehta,Webcam,Accessories,8,3221.32,0.05,24482.03,19327.92,5154.11,24482.03,5154.11,0.21052625129533784,Apr-2025
+ORD-0279,2025-01-23,South,Chennai,Retail Store,Corporate,Rohan Singh,Wireless Mouse,Accessories,1,876.11,0.05,832.3,595.75,236.55,832.3,236.55,0.28421242340502223,Jan-2025
+ORD-0280,2025-06-19,West,Pune,Retail Store,Corporate,Vihaan Gupta,Webcam,Accessories,7,3111.87,0.08,20040.44,16337.32,3703.12,20040.44,3703.12,0.18478237004776343,Jun-2025
+ORD-0281,2025-07-22,West,Surat,Marketplace,Consumer,Ananya Joshi,Laptop,Electronics,12,55308.95,0.1,597336.66,564151.29,33185.37,597336.66,33185.37,0.05555555555555556,Jul-2025
+ORD-0282,2025-04-16,South,Hyderabad,Corporate Sales,Consumer,Sara Khan,Office Chair,Furniture,12,7962.46,0.0,95549.52,74528.63,21020.89,95549.52,21020.89,0.21999995395057975,Apr-2025
+ORD-0283,2025-02-28,East,Guwahati,Marketplace,Corporate,Priya Verma,Office Chair,Furniture,11,7908.26,0.08,80031.59,67852.87,12178.72,80031.59,12178.72,0.15217391032715957,Feb-2025
+ORD-0284,2025-06-28,East,Kolkata,Retail Store,Small Business,Priya Verma,Desk,Furniture,8,6170.58,0.1,44428.18,39491.71,4936.47,44428.18,4936.47,0.11111123615687162,Jun-2025
+ORD-0285,2025-05-03,South,Kochi,Marketplace,Corporate,Rohan Singh,Office Chair,Furniture,2,7739.65,0.02,15169.71,12073.85,3095.86,15169.71,3095.86,0.20408168646599048,May-2025
+ORD-0286,2025-10-22,South,Chennai,Marketplace,Small Business,Rohan Singh,Headphones,Accessories,7,2419.52,0.02,16597.91,11855.65,4742.26,16597.91,4742.26,0.28571428571428575,Oct-2025
+ORD-0287,2025-04-06,East,Kolkata,Marketplace,Consumer,Ananya Joshi,Desk,Furniture,8,6064.04,0.1,43661.09,38809.86,4851.23,43661.09,4851.23,0.11111106021402581,Apr-2025
+ORD-0288,2025-07-16,West,Unknown,Marketplace,Small Business,Rohan Singh,Webcam,Accessories,9,3229.75,0.15,24707.59,21800.81,2906.78,24707.59,2906.78,0.11764724928655527,Jul-2025
+ORD-0289,2025-02-12,East,Patna,Corporate Sales,Consumer,Sara Khan,External SSD,Electronics,1,6081.53,0.02,5959.9,4804.41,1155.49,5959.9,1155.49,0.19387741405057132,Feb-2025
+ORD-0290,2025-10-17,North,Dehradun,Corporate Sales,Corporate,Aarav Sharma,Printer,Electronics,9,9367.33,0.1,75875.37,70817.01,5058.36,75875.37,5058.36,0.06666669302568146,Oct-2025
+ORD-0291,2025-08-14,South,Hyderabad,Online,Small Business,Kabir Mehta,Webcam,Accessories,4,3053.88,0.08,11238.28,9161.64,2076.64,11238.28,2076.64,0.18478272475859292,Aug-2025
+ORD-0292,2025-06-28,South,Chennai,Corporate Sales,Corporate,Vihaan Gupta,Wireless Mouse,Accessories,8,891.3,0.0,7130.4,4848.67,2281.73,7130.4,2281.73,0.3200002804891731,Jun-2025
+ORD-0293,2025-03-26,North,Dehradun,Corporate Sales,Corporate,Rohan Singh,External SSD,Electronics,3,6534.14,0.02,19210.37,15485.91,3724.46,19210.37,3724.46,0.1938775775791929,Mar-2025
+ORD-0294,2025-06-15,North,Jaipur,Marketplace,Consumer,Kabir Mehta,Office Chair,Furniture,5,7623.94,0.1,34307.73,29733.37,4574.36,34307.73,4574.36,0.13333321674153314,Jun-2025
+ORD-0295,2025-12-02,East,Patna,Marketplace,Small Business,Rohan Singh,Keyboard,Accessories,12,1754.92,0.02,20637.86,15162.51,5475.35,20637.86,5475.35,0.26530609278287576,Dec-2025
+ORD-0296,2025-10-23,North,Delhi,Marketplace,Corporate,Kabir Mehta,Office Chair,Furniture,11,7741.69,0.08,78345.9,66423.7,11922.2,78345.9,11922.2,0.1521738852958483,Oct-2025
+ORD-0297,2025-12-22,North,Delhi,Marketplace,Corporate,Isha Kapoor,Desk,Furniture,8,6309.25,0.08,46436.08,40379.2,6056.88,46436.08,6056.88,0.13043478260869565,Dec-2025
+ORD-0298,2025-02-02,South,Kochi,Corporate Sales,Small Business,Kabir Mehta,Webcam,Accessories,7,3441.72,0.02,23610.2,18069.03,5541.17,23610.2,5541.17,0.2346939034823932,Feb-2025
+ORD-0299,2025-06-22,West,Ahmedabad,Online,Consumer,Priya Verma,Webcam,Accessories,10,3261.63,0.02,31963.97,24462.23,7501.74,31963.97,7501.74,0.2346936253537968,Jun-2025
+ORD-0300,2025-11-17,South,Kochi,Marketplace,Consumer,Vihaan Gupta,Printer,Electronics,1,10487.18,0.0,10487.18,8809.23,1677.95,10487.18,1677.95,0.16000011442542228,Nov-2025
+ORD-0301,2025-04-14,East,Kolkata,Corporate Sales,Small Business,Priya Verma,Keyboard,Accessories,11,1732.06,0.05,18100.03,13717.92,4382.11,18100.03,4382.11,0.24210512358266809,Apr-2025
+ORD-0302,2025-07-10,South,Kochi,Online,Corporate,Priya Verma,Keyboard,Accessories,1,1849.65,0.08,1701.68,1331.75,369.93,1701.68,369.93,0.21739104884584645,Jul-2025
+ORD-0303,2025-01-01,South,Kochi,Online,Consumer,Isha Kapoor,Monitor,Electronics,8,11982.22,0.0,95857.76,78603.36,17254.4,95857.76,17254.4,0.18000003338279552,Jan-2025
+ORD-0304,2025-03-03,South,Kochi,Online,Corporate,Priya Verma,Headphones,Accessories,12,2416.51,0.02,28418.16,20298.68,8119.48,28418.16,8119.48,0.2857144867929521,Mar-2025
+ORD-0305,2025-02-22,South,Chennai,Online,Corporate,Aarav Sharma,Desk,Furniture,6,6138.87,0.05,34991.56,29466.58,5524.98,34991.56,5524.98,0.15789464659477886,Feb-2025
+ORD-0306,2025-11-09,South,Kochi,Marketplace,Consumer,Priya Verma,Keyboard,Accessories,8,1874.05,0.05,14242.78,10794.53,3448.25,14242.78,3448.25,0.24210512273587037,Nov-2025
+ORD-0307,2025-02-21,East,Guwahati,Corporate Sales,Consumer,Ananya Joshi,Keyboard,Accessories,2,1875.96,0.1,3376.73,2701.38,675.35,3376.73,675.35,0.2000011845779793,Feb-2025
+ORD-0308,2025-05-22,East,Kolkata,Corporate Sales,Consumer,Ananya Joshi,Wireless Mouse,Accessories,4,870.52,0.1,3133.87,2367.81,766.06,3133.87,766.06,0.24444536627237248,May-2025
+ORD-0309,2025-07-20,South,Kochi,Marketplace,Consumer,Ananya Joshi,Office Chair,Furniture,11,8187.91,0.0,90067.01,70252.27,19814.74,90067.01,19814.74,0.2199999755737423,Jul-2025
+ORD-0310,2025-09-13,North,Dehradun,Corporate Sales,Consumer,Vihaan Gupta,External SSD,Electronics,2,6599.41,0.1,11878.94,10427.07,1451.87,11878.94,1451.87,0.12222218480773536,Sep-2025
+ORD-0311,2025-10-19,West,Mumbai,Online,Corporate,Priya Verma,Headphones,Accessories,6,2485.47,0.1,13421.54,10438.97,2982.57,13421.54,2982.57,0.22222263615054605,Oct-2025
+ORD-0312,2025-01-08,West,Ahmedabad,Marketplace,Small Business,Vihaan Gupta,Office Chair,Furniture,4,8339.46,0.0,33357.84,26019.12,7338.72,33357.84,7338.72,0.21999985610579106,Jan-2025
+ORD-0313,2025-02-12,North,Dehradun,Online,Corporate,Ananya Joshi,Webcam,Accessories,9,3076.4,0.1,24918.84,20765.7,4153.14,24918.84,4153.14,0.16666666666666669,Feb-2025
+ORD-0314,2025-03-21,North,Dehradun,Marketplace,Corporate,Ananya Joshi,Webcam,Accessories,6,3270.72,0.08,18054.37,14718.24,3336.13,18054.37,3336.13,0.18478241002039952,Mar-2025
+ORD-0315,2025-01-30,North,Dehradun,Retail Store,Consumer,Aarav Sharma,Monitor,Electronics,2,11952.98,0.08,21993.48,19602.89,2390.59,21993.48,2390.59,0.10869539518075358,Jan-2025
+ORD-0316,2025-12-29,East,Bhubaneswar,Retail Store,Small Business,Rohan Singh,Keyboard,Accessories,12,1733.29,0.0,20799.48,14975.63,5823.85,20799.48,5823.85,0.2799997884562499,Dec-2025
+ORD-0317,2025-05-18,East,Kolkata,Corporate Sales,Corporate,Priya Verma,Wireless Mouse,Accessories,1,895.05,0.05,850.3,608.63,241.67,850.3,241.67,0.2842173350582147,May-2025
+ORD-0318,2025-09-12,South,Hyderabad,Retail Store,Small Business,Priya Verma,Printer,Electronics,9,9288.06,0.05,79412.91,70217.73,9195.18,79412.91,9195.18,0.11578948561386303,Sep-2025
+ORD-0319,2025-10-21,North,Delhi,Retail Store,Consumer,Sara Khan,Wireless Mouse,Accessories,4,859.55,0.15,2922.47,2337.98,584.49,2922.47,584.49,0.19999863129476095,Oct-2025
+ORD-0320,2025-07-06,North,Chandigarh,Retail Store,Small Business,Ananya Joshi,Headphones,Accessories,3,2568.87,0.02,7552.48,5394.63,2157.85,7552.48,2157.85,0.28571409656165925,Jul-2025
+ORD-0321,2025-08-02,North,Delhi,Retail Store,Consumer,Aarav Sharma,Desk,Furniture,5,6528.1,0.0,32640.5,26112.4,6528.1,32640.5,6528.1,0.2,Aug-2025
+ORD-0322,2025-07-25,East,Bhubaneswar,Online,Corporate,Sara Khan,Wireless Mouse,Accessories,8,891.05,0.05,6771.98,4847.31,1924.67,6771.98,1924.67,0.28421082165038886,Jul-2025
+ORD-0323,2025-01-05,East,Patna,Marketplace,Small Business,Sara Khan,Desk,Furniture,4,6521.17,0.05,24780.45,20867.74,3912.71,24780.45,3912.71,0.15789503419025885,Jan-2025
+ORD-0324,2025-04-11,West,Mumbai,Retail Store,Corporate,Isha Kapoor,Webcam,Accessories,4,3010.86,0.02,11802.57,9032.58,2769.99,11802.57,2769.99,0.23469379974022606,Apr-2025
+ORD-0325,2025-11-22,West,Ahmedabad,Online,Consumer,Ananya Joshi,Laptop,Electronics,6,54405.0,0.0,326430.0,277465.5,48964.5,326430.0,48964.5,0.15,Nov-2025
+ORD-0326,2025-08-03,North,Delhi,Retail Store,Corporate,Vihaan Gupta,Printer,Electronics,1,10188.39,0.02,9984.62,8558.25,1426.37,9984.62,1426.37,0.14285671362555608,Aug-2025
+ORD-0327,2025-12-25,North,Jaipur,Marketplace,Consumer,Aarav Sharma,Desk,Furniture,8,6092.07,0.15,41426.08,38989.25,2436.83,41426.08,2436.83,0.058823572010675396,Dec-2025
+ORD-0328,2025-08-11,East,Guwahati,Corporate Sales,Small Business,Sara Khan,Keyboard,Accessories,4,1757.77,0.05,6679.53,5062.38,1617.15,6679.53,1617.15,0.24210535771229416,Aug-2025
+ORD-0329,2025-05-20,North,Jaipur,Online,Consumer,Sara Khan,Monitor,Electronics,2,11988.2,0.02,23496.87,19660.65,3836.22,23496.87,3836.22,0.1632651497837797,May-2025
+ORD-0330,2025-08-27,South,Kochi,Corporate Sales,Small Business,Kabir Mehta,Desk,Furniture,7,6496.19,0.0,45473.33,36378.66,9094.67,45473.33,9094.67,0.20000008796364813,Aug-2025
+ORD-0331,2025-03-03,North,Jaipur,Corporate Sales,Consumer,Priya Verma,Wireless Mouse,Accessories,3,835.2,0.15,2129.76,1703.81,425.95,2129.76,425.95,0.19999906092705277,Mar-2025
+ORD-0332,2025-12-31,East,Bhubaneswar,Retail Store,Consumer,Vihaan Gupta,Monitor,Electronics,6,12648.55,0.08,69820.0,62230.87,7589.13,69820.0,7589.13,0.10869564594672014,Dec-2025
+ORD-0333,2025-08-20,West,Mumbai,Retail Store,Consumer,Aarav Sharma,Webcam,Accessories,12,3119.93,0.1,33695.24,28079.37,5615.87,33695.24,5615.87,0.1666665677407254,Aug-2025
+ORD-0334,2025-02-01,East,Kolkata,Corporate Sales,Consumer,Aarav Sharma,Monitor,Electronics,3,13191.43,0.02,38782.8,32450.92,6331.88,38782.8,6331.88,0.16326515878172798,Feb-2025
+ORD-0335,2025-02-03,North,Dehradun,Online,Consumer,Sara Khan,Monitor,Electronics,11,13166.27,0.08,133242.65,118759.76,14482.89,133242.65,14482.89,0.1086956015960355,Feb-2025
+ORD-0336,2025-01-26,West,Surat,Online,Small Business,Vihaan Gupta,Keyboard,Accessories,10,1899.06,0.08,17471.35,13673.23,3798.12,17471.35,3798.12,0.21739132923328766,Jan-2025
+ORD-0337,2025-03-30,West,Pune,Online,Corporate,Ananya Joshi,Desk,Furniture,4,6262.38,0.02,24548.53,20039.62,4508.91,24548.53,4508.91,0.18367331974664064,Mar-2025
+ORD-0338,2025-11-28,West,Mumbai,Online,Small Business,Vihaan Gupta,Office Chair,Furniture,8,8295.99,0.08,61058.49,51766.98,9291.51,61058.49,9291.51,0.15217392372461225,Nov-2025
+ORD-0339,2025-03-12,South,Bengaluru,Marketplace,Corporate,Isha Kapoor,Headphones,Accessories,4,2553.24,0.15,8681.02,7149.07,1531.95,8681.02,1531.95,0.17647119808501766,Mar-2025
+ORD-0340,2025-09-03,East,Guwahati,Corporate Sales,Consumer,Aarav Sharma,Webcam,Accessories,8,3416.88,0.05,25968.29,20501.28,5467.01,25968.29,5467.01,0.21052637659237478,Sep-2025
+ORD-0341,2025-06-13,East,Kolkata,Marketplace,Corporate,Isha Kapoor,External SSD,Electronics,4,6605.52,0.0,26422.08,20873.44,5548.64,26422.08,5548.64,0.21000012111082852,Jun-2025
+ORD-0342,2025-10-27,South,Hyderabad,Online,Consumer,Vihaan Gupta,Monitor,Electronics,3,12183.75,0.0,36551.25,29972.03,6579.22,36551.25,6579.22,0.17999986320577271,Oct-2025
+ORD-0343,2025-07-01,East,Kolkata,Corporate Sales,Corporate,Rohan Singh,Keyboard,Accessories,3,1841.31,0.02,5413.45,3977.23,1436.22,5413.45,1436.22,0.265305858556004,Jul-2025
+ORD-0344,2025-10-16,West,Mumbai,Online,Consumer,Ananya Joshi,Monitor,Electronics,8,12290.84,0.1,88494.05,80627.91,7866.14,88494.05,7866.14,0.08888891400043279,Oct-2025
+ORD-0345,2025-11-05,East,Patna,Retail Store,Small Business,Rohan Singh,Monitor,Electronics,1,12586.48,0.1,11327.83,10320.91,1006.92,11327.83,1006.92,0.0888890458278417,Nov-2025
+ORD-0346,2025-06-15,South,Bengaluru,Corporate Sales,Consumer,Isha Kapoor,Laptop,Electronics,1,53150.51,0.02,52087.5,45177.93,6909.57,52087.5,6909.57,0.13265313174946003,Jun-2025
+ORD-0347,2025-12-27,East,Patna,Retail Store,Corporate,Vihaan Gupta,Headphones,Accessories,10,2369.08,0.0,23690.8,16583.56,7107.24,23690.8,7107.24,0.3,Dec-2025
+ORD-0348,2025-11-24,East,Patna,Retail Store,Small Business,Kabir Mehta,Printer,Electronics,11,9451.01,0.05,98763.05,87327.33,11435.72,98763.05,11435.72,0.11578945769698282,Nov-2025
+ORD-0349,2025-12-19,West,Mumbai,Retail Store,Corporate,Isha Kapoor,Office Chair,Furniture,3,8127.88,0.02,23895.97,19019.24,4876.73,23895.97,4876.73,0.20408169243600488,Dec-2025
+ORD-0350,2025-11-10,West,Pune,Corporate Sales,Corporate,Priya Verma,Monitor,Electronics,11,11932.19,0.1,118128.68,107628.35,10500.33,118128.68,10500.33,0.08888891334432926,Nov-2025
+ORD-0351,2025-05-02,North,Dehradun,Marketplace,Consumer,Kabir Mehta,Desk,Furniture,6,6586.02,0.02,38725.8,31612.9,7112.9,38725.8,7112.9,0.18367341668861584,May-2025
+ORD-0352,2025-04-18,North,Delhi,Online,Small Business,Sara Khan,Monitor,Electronics,12,12363.34,0.0,148360.08,121655.27,26704.81,148360.08,26704.81,0.17999997034242637,Apr-2025
+ORD-0353,2025-08-03,East,Guwahati,Online,Small Business,Ananya Joshi,Keyboard,Accessories,7,1914.21,0.08,12327.51,9647.62,2679.89,12327.51,2679.89,0.21739102219345185,Aug-2025
+ORD-0354,2025-03-25,East,Bhubaneswar,Online,Consumer,Isha Kapoor,Printer,Electronics,2,9616.61,0.0,19233.22,16155.9,3077.32,19233.22,3077.32,0.16000024956819503,Mar-2025
+ORD-0355,2025-03-29,North,Dehradun,Marketplace,Corporate,Aarav Sharma,Headphones,Accessories,3,2281.2,0.15,5817.06,4790.52,1026.54,5817.06,1026.54,0.1764705882352941,Mar-2025
+ORD-0356,2025-08-09,North,Dehradun,Retail Store,Consumer,Vihaan Gupta,Keyboard,Accessories,10,1731.59,0.08,15930.63,12467.45,3463.18,15930.63,3463.18,0.21739127705558411,Aug-2025
+ORD-0357,2025-12-23,East,Bhubaneswar,Retail Store,Consumer,Aarav Sharma,Webcam,Accessories,12,3249.98,0.15,33149.8,29249.82,3899.98,33149.8,3899.98,0.11764716529209829,Dec-2025
+ORD-0358,2025-07-21,East,Kolkata,Marketplace,Consumer,Kabir Mehta,External SSD,Electronics,9,5961.32,0.08,49359.73,42384.99,6974.74,49359.73,6974.74,0.14130425753949624,Jul-2025
+ORD-0359,2025-12-05,South,Chennai,Corporate Sales,Consumer,Sara Khan,External SSD,Electronics,8,5912.18,0.02,46351.49,37364.98,8986.51,46351.49,8986.51,0.1938774783723242,Dec-2025
+ORD-0360,2025-03-01,East,Kolkata,Marketplace,Consumer,Isha Kapoor,Office Chair,Furniture,7,7866.09,0.08,50657.62,42948.85,7708.77,50657.62,7708.77,0.15217394737455095,Mar-2025
+ORD-0361,2025-07-15,West,Surat,Corporate Sales,Consumer,Kabir Mehta,Desk,Furniture,3,6055.98,0.08,16714.5,14534.35,2180.15,16714.5,2180.15,0.13043465254718958,Jul-2025
+ORD-0362,2025-10-16,North,Dehradun,Marketplace,Corporate,Ananya Joshi,Laptop,Electronics,3,53739.17,0.15,137034.88,137034.88,0.0,137034.88,0.0,0.0,Oct-2025
+ORD-0363,2025-10-11,West,Pune,Marketplace,Small Business,Priya Verma,Laptop,Electronics,7,51927.64,0.1,327144.13,308969.46,18174.67,327144.13,18174.67,0.05555554366816852,Oct-2025
+ORD-0364,2025-07-22,South,Bengaluru,Marketplace,Consumer,Rohan Singh,Laptop,Electronics,9,55435.31,0.1,449026.01,424080.12,24945.89,449026.01,24945.89,0.05555555679280138,Jul-2025
+ORD-0365,2025-04-19,West,Pune,Retail Store,Corporate,Kabir Mehta,Monitor,Electronics,3,12490.91,0.0,37472.73,30727.64,6745.09,37472.73,6745.09,0.1799999626394981,Apr-2025
+ORD-0366,2025-06-13,East,Bhubaneswar,Marketplace,Consumer,Vihaan Gupta,Wireless Mouse,Accessories,2,865.21,0.08,1591.99,1176.69,415.3,1591.99,415.3,0.26086847279191455,Jun-2025
+ORD-0367,2025-02-27,North,Delhi,Online,Small Business,Isha Kapoor,Headphones,Accessories,3,2446.38,0.02,7192.36,5137.4,2054.96,7192.36,2054.96,0.28571428571428575,Feb-2025
+ORD-0368,2025-07-30,West,Mumbai,Retail Store,Small Business,Vihaan Gupta,Office Chair,Furniture,7,7862.26,0.15,46780.45,42927.94,3852.51,46780.45,3852.51,0.0823529914740025,Jul-2025
+ORD-0369,2025-03-15,North,Chandigarh,Corporate Sales,Corporate,Ananya Joshi,External SSD,Electronics,10,6430.1,0.15,54655.85,50797.79,3858.06,54655.85,3858.06,0.07058823529411765,Mar-2025
+ORD-0370,2025-01-26,East,Bhubaneswar,Corporate Sales,Small Business,Priya Verma,Printer,Electronics,5,9239.76,0.05,43888.86,38806.99,5081.87,43888.86,5081.87,0.11578951925386077,Jan-2025
+ORD-0371,2025-04-27,East,Bhubaneswar,Marketplace,Corporate,Priya Verma,Keyboard,Accessories,5,1803.66,0.15,7665.56,6493.18,1172.38,7665.56,1172.38,0.15294120716555606,Apr-2025
+ORD-0372,2025-04-07,East,Kolkata,Retail Store,Consumer,Kabir Mehta,Printer,Electronics,4,10228.58,0.08,37641.17,34368.03,3273.14,37641.17,3273.14,0.08695638313049249,Apr-2025
+ORD-0373,2025-12-30,North,Jaipur,Retail Store,Consumer,Aarav Sharma,Webcam,Accessories,7,3357.67,0.02,23033.62,17627.77,5405.85,23033.62,5405.85,0.23469389527134688,Dec-2025
+ORD-0374,2025-05-08,South,Hyderabad,Corporate Sales,Small Business,Vihaan Gupta,Laptop,Electronics,8,55563.27,0.0,444506.16,377830.24,66675.92,444506.16,66675.92,0.14999999100124958,May-2025
+ORD-0375,2025-11-22,West,Surat,Retail Store,Small Business,Isha Kapoor,Wireless Mouse,Accessories,11,827.79,0.0,9105.69,6191.87,2913.82,9105.69,2913.82,0.31999991214284695,Nov-2025
+ORD-0376,2025-06-26,North,Dehradun,Online,Small Business,Aarav Sharma,Keyboard,Accessories,5,1901.38,0.15,8080.87,6844.97,1235.9,8080.87,1235.9,0.15294145308611573,Jun-2025
+ORD-0377,2025-03-25,South,Hyderabad,Marketplace,Corporate,Aarav Sharma,External SSD,Electronics,4,6389.93,0.02,25048.53,20192.18,4856.35,25048.53,4856.35,0.19387764471607719,Mar-2025
+ORD-0378,2025-12-16,North,Jaipur,Corporate Sales,Corporate,Kabir Mehta,Laptop,Electronics,8,53592.86,0.02,420168.02,364431.45,55736.57,420168.02,55736.57,0.13265305151020299,Dec-2025
+ORD-0379,2025-12-31,West,Ahmedabad,Retail Store,Small Business,Kabir Mehta,Office Chair,Furniture,7,8261.93,0.08,53206.83,45110.14,8096.69,53206.83,8096.69,0.1521738844430311,Dec-2025
+ORD-0380,2025-12-13,North,Dehradun,Corporate Sales,Small Business,Priya Verma,Webcam,Accessories,10,3269.85,0.08,30082.62,24523.88,5558.74,30082.62,5558.74,0.1847824424867249,Dec-2025
+ORD-0381,2025-09-04,East,Bhubaneswar,Corporate Sales,Consumer,Rohan Singh,Wireless Mouse,Accessories,6,875.23,0.05,4988.81,3570.94,1417.87,4988.81,1417.87,0.28421006211902233,Sep-2025
+ORD-0382,2025-09-22,East,Patna,Online,Corporate,Sara Khan,Monitor,Electronics,1,12457.17,0.1,11211.45,10214.88,996.57,11211.45,996.57,0.08888859157379286,Sep-2025
+ORD-0383,2025-06-01,North,Jaipur,Corporate Sales,Corporate,Ananya Joshi,Office Chair,Furniture,7,7756.0,0.08,49948.64,42347.76,7600.88,49948.64,7600.88,0.15217391304347827,Jun-2025
+ORD-0384,2025-12-18,East,Bhubaneswar,Retail Store,Corporate,Rohan Singh,Webcam,Accessories,11,3414.12,0.08,34550.89,28166.49,6384.4,34550.89,6384.4,0.18478250487903494,Dec-2025
+ORD-0385,2025-05-31,South,Hyderabad,Online,Consumer,Isha Kapoor,Wireless Mouse,Accessories,8,887.17,0.02,6955.41,4826.2,2129.21,6955.41,2129.21,0.30612285975952536,May-2025
+ORD-0386,2025-04-25,East,Guwahati,Online,Small Business,Aarav Sharma,Office Chair,Furniture,7,7737.88,0.05,51456.9,42248.82,9208.08,51456.9,9208.08,0.17894742979075692,Apr-2025
+ORD-0387,2025-11-21,South,Bengaluru,Marketplace,Corporate,Kabir Mehta,External SSD,Electronics,10,5889.82,0.1,53008.38,46529.58,6478.8,53008.38,6478.8,0.12222218449233876,Nov-2025
+ORD-0388,2025-07-31,East,Guwahati,Marketplace,Consumer,Isha Kapoor,Laptop,Electronics,3,56104.29,0.02,164946.61,143065.94,21880.67,164946.61,21880.67,0.13265304452149698,Jul-2025
+ORD-0389,2025-04-03,South,Hyderabad,Online,Consumer,Sara Khan,Wireless Mouse,Accessories,8,874.09,0.05,6643.08,4755.05,1888.03,6643.08,1888.03,0.2842100351041987,Apr-2025
+ORD-0390,2025-05-21,West,Mumbai,Retail Store,Corporate,Vihaan Gupta,Monitor,Electronics,3,13087.85,0.1,35337.2,32196.11,3141.09,35337.2,3141.09,0.0888890461043886,May-2025
+ORD-0391,2025-11-21,West,Mumbai,Online,Corporate,Ananya Joshi,Headphones,Accessories,7,2580.35,0.08,16617.45,12643.72,3973.73,16617.45,3973.73,0.23912995074454865,Nov-2025
+ORD-0392,2025-07-11,North,Jaipur,Retail Store,Corporate,Isha Kapoor,Laptop,Electronics,6,50267.4,0.1,271443.96,256363.74,15080.22,271443.96,15080.22,0.055555555555555546,Jul-2025
+ORD-0393,2025-06-09,East,Patna,Online,Consumer,Kabir Mehta,Keyboard,Accessories,2,1818.84,0.08,3346.67,2619.13,727.54,3346.67,727.54,0.21739221375277512,Jun-2025
+ORD-0394,2025-05-29,East,Guwahati,Retail Store,Small Business,Sara Khan,Printer,Electronics,12,10030.22,0.1,108326.38,101104.62,7221.76,108326.38,7221.76,0.06666667897514898,May-2025
+ORD-0395,2025-07-03,South,Chennai,Retail Store,Corporate,Aarav Sharma,Monitor,Electronics,3,11783.47,0.08,32522.38,28987.34,3535.04,32522.38,3535.04,0.1086956120677515,Jul-2025
+ORD-0396,2025-10-29,North,Chandigarh,Corporate Sales,Corporate,Aarav Sharma,Webcam,Accessories,3,3172.23,0.0,9516.69,7137.52,2379.17,9516.69,2379.17,0.24999973730362132,Oct-2025
+ORD-0397,2025-11-01,North,Delhi,Online,Small Business,Sara Khan,Laptop,Electronics,11,53637.97,0.0,590017.67,501515.02,88502.65,590017.67,88502.65,0.14999999915256773,Nov-2025
+ORD-0398,2025-07-14,South,Chennai,Online,Small Business,Vihaan Gupta,Wireless Mouse,Accessories,9,855.45,0.05,7314.1,5235.35,2078.75,7314.1,2078.75,0.28421131786549264,Jul-2025
+ORD-0399,2025-12-05,South,Kochi,Online,Corporate,Priya Verma,Wireless Mouse,Accessories,11,831.13,0.1,8228.19,6216.85,2011.34,8228.19,2011.34,0.24444501160036408,Dec-2025
+ORD-0400,2025-05-25,South,Hyderabad,Retail Store,Small Business,Vihaan Gupta,Wireless Mouse,Accessories,2,822.64,0.08,1513.66,1118.79,394.87,1513.66,394.87,0.2608710014137917,May-2025
+ORD-0401,2025-06-01,South,Kochi,Corporate Sales,Consumer,Aarav Sharma,Keyboard,Accessories,1,1817.08,0.1,1635.37,1308.3,327.07,1635.37,327.07,0.1999975540703327,Jun-2025
+ORD-0402,2025-01-07,South,Bengaluru,Online,Corporate,Priya Verma,Wireless Mouse,Accessories,2,878.61,0.1,1581.5,1194.91,386.59,1581.5,386.59,0.24444514701233006,Jan-2025
+ORD-0403,2025-05-12,North,Delhi,Retail Store,Consumer,Kabir Mehta,Monitor,Electronics,8,12212.22,0.05,92812.87,80112.16,12700.71,92812.87,12700.71,0.13684212114117364,May-2025
+ORD-0404,2025-07-04,North,Delhi,Retail Store,Corporate,Rohan Singh,Desk,Furniture,7,6119.85,0.15,36413.11,34271.16,2141.95,36413.11,2141.95,0.058823594029732695,Jul-2025
+ORD-0405,2025-06-18,North,Dehradun,Corporate Sales,Consumer,Priya Verma,Desk,Furniture,8,6256.41,0.1,45046.15,40041.02,5005.13,45046.15,5005.13,0.11111116044323432,Jun-2025
+ORD-0406,2025-07-25,West,Surat,Retail Store,Consumer,Rohan Singh,Headphones,Accessories,8,2536.8,0.05,19279.68,14206.08,5073.6,19279.68,5073.6,0.26315789473684215,Jul-2025
+ORD-0407,2025-12-23,West,Surat,Retail Store,Corporate,Vihaan Gupta,Laptop,Electronics,3,51908.68,0.0,155726.04,132367.13,23358.91,155726.04,23358.91,0.15000002568613444,Dec-2025
+ORD-0408,2025-07-03,South,Kochi,Marketplace,Consumer,Vihaan Gupta,External SSD,Electronics,1,6591.8,0.15,5603.03,5207.52,395.51,5603.03,395.51,0.0705885922438395,Jul-2025
+ORD-0409,2025-08-14,North,Jaipur,Corporate Sales,Corporate,Priya Verma,Laptop,Electronics,2,53648.21,0.05,101931.6,91201.96,10729.64,101931.6,10729.64,0.10526313724105182,Aug-2025
+ORD-0410,2025-08-10,West,Pune,Online,Consumer,Rohan Singh,Monitor,Electronics,8,12911.49,0.05,98127.32,84699.37,13427.95,98127.32,13427.95,0.13684211491763965,Aug-2025
+ORD-0411,2025-09-16,West,Ahmedabad,Retail Store,Small Business,Kabir Mehta,Printer,Electronics,8,9314.72,0.02,73027.4,62594.92,10432.48,73027.4,10432.48,0.14285706460862635,Sep-2025
+ORD-0412,2025-01-26,West,Pune,Online,Small Business,Sara Khan,Webcam,Accessories,4,3296.21,0.1,11866.36,9888.63,1977.73,11866.36,1977.73,0.16666694757280243,Jan-2025
+ORD-0413,2025-10-21,North,Chandigarh,Online,Consumer,Vihaan Gupta,Printer,Electronics,2,9825.38,0.08,18078.7,16506.64,1572.06,18078.7,1572.06,0.08695647364025068,Oct-2025
+ORD-0414,2025-07-31,North,Dehradun,Retail Store,Corporate,Sara Khan,Laptop,Electronics,9,48881.24,0.1,395938.04,373941.49,21996.55,395938.04,21996.55,0.055555535911629005,Jul-2025
+ORD-0415,2025-06-24,East,Guwahati,Corporate Sales,Corporate,Sara Khan,Desk,Furniture,1,6772.51,0.02,6637.06,5418.01,1219.05,6637.06,1219.05,0.1836731926485522,Jun-2025
+ORD-0416,2025-02-28,East,Bhubaneswar,Corporate Sales,Corporate,Priya Verma,Wireless Mouse,Accessories,11,799.26,0.02,8616.02,5978.46,2637.56,8616.02,2637.56,0.30612278058778875,Feb-2025
+ORD-0417,2025-01-24,West,Mumbai,Corporate Sales,Corporate,Ananya Joshi,Keyboard,Accessories,8,1899.1,0.02,14888.94,10938.82,3950.12,14888.94,3950.12,0.26530565641341824,Jan-2025
+ORD-0418,2025-04-07,South,Hyderabad,Online,Small Business,Aarav Sharma,Wireless Mouse,Accessories,7,853.39,0.02,5854.26,4062.14,1792.12,5854.26,1792.12,0.30612237925886443,Apr-2025
+ORD-0419,2025-11-21,South,Kochi,Online,Corporate,Aarav Sharma,External SSD,Electronics,2,6225.01,0.08,11454.02,9835.52,1618.5,11454.02,1618.5,0.1413041010928914,Nov-2025
+ORD-0420,2025-10-11,South,Chennai,Retail Store,Consumer,Vihaan Gupta,Headphones,Accessories,10,2566.59,0.08,23612.63,17966.13,5646.5,23612.63,5646.5,0.23913049922859078,Oct-2025
+ORD-0421,2025-12-03,West,Surat,Retail Store,Small Business,Vihaan Gupta,External SSD,Electronics,10,6265.57,0.05,59522.91,49498.0,10024.91,59522.91,10024.91,0.1684210331786534,Dec-2025
+ORD-0422,2025-06-25,East,Bhubaneswar,Retail Store,Consumer,Ananya Joshi,Office Chair,Furniture,8,7482.89,0.02,58665.86,46693.23,11972.63,58665.86,11972.63,0.20408172657828588,Jun-2025
+ORD-0423,2025-11-16,South,Chennai,Corporate Sales,Corporate,Priya Verma,Office Chair,Furniture,11,8337.94,0.05,87131.47,71539.53,15591.94,87131.47,15591.94,0.17894728506244645,Nov-2025
+ORD-0424,2025-06-30,West,Ahmedabad,Marketplace,Consumer,Priya Verma,Webcam,Accessories,8,3263.65,0.1,23498.28,19581.9,3916.38,23498.28,3916.38,0.16666666666666669,Jun-2025
+ORD-0425,2025-01-13,South,Hyderabad,Retail Store,Small Business,Kabir Mehta,Headphones,Accessories,3,2481.21,0.0,7443.63,5210.54,2233.09,7443.63,2233.09,0.3000001343430558,Jan-2025
+ORD-0426,2025-03-16,North,Dehradun,Marketplace,Consumer,Ananya Joshi,Laptop,Electronics,12,50365.13,0.05,574162.48,513724.33,60438.15,574162.48,60438.15,0.10526314781140002,Mar-2025
+ORD-0427,2025-11-28,East,Kolkata,Marketplace,Small Business,Vihaan Gupta,Webcam,Accessories,7,3236.89,0.02,22205.07,16993.67,5211.4,22205.07,5211.4,0.23469414867865762,Nov-2025
+ORD-0428,2025-12-17,East,Patna,Marketplace,Consumer,Isha Kapoor,Desk,Furniture,9,6027.62,0.0,54248.58,43398.86,10849.72,54248.58,10849.72,0.2000000737346489,Dec-2025
+ORD-0429,2025-10-29,South,Hyderabad,Marketplace,Consumer,Priya Verma,Webcam,Accessories,12,3096.02,0.1,33437.02,27864.18,5572.84,33437.02,5572.84,0.16666676635657127,Oct-2025
+ORD-0430,2025-04-06,North,Chandigarh,Corporate Sales,Corporate,Kabir Mehta,Keyboard,Accessories,12,1722.08,0.1,18598.46,14878.77,3719.69,18598.46,3719.69,0.1999998924642148,Apr-2025
+ORD-0431,2025-03-08,West,Pune,Online,Consumer,Isha Kapoor,Keyboard,Accessories,10,1693.42,0.05,16087.49,12192.62,3894.87,16087.49,3894.87,0.24210551179829792,Mar-2025
+ORD-0432,2025-11-02,East,Guwahati,Corporate Sales,Consumer,Isha Kapoor,Laptop,Electronics,11,55018.06,0.1,544678.79,514418.86,30259.93,544678.79,30259.93,0.05555555045570987,Nov-2025
+ORD-0433,2025-09-27,South,Kochi,Marketplace,Consumer,Isha Kapoor,Monitor,Electronics,3,11869.31,0.1,32047.14,29198.5,2848.64,32047.14,2848.64,0.08888905531039587,Sep-2025
+ORD-0434,2025-04-24,East,Patna,Marketplace,Corporate,Aarav Sharma,Monitor,Electronics,11,12329.37,0.05,128841.92,111210.92,17631.0,128841.92,17631.0,0.13684210853113646,Apr-2025
+ORD-0435,2025-02-28,South,Bengaluru,Corporate Sales,Small Business,Priya Verma,Desk,Furniture,8,6826.43,0.02,53519.21,43689.15,9830.06,53519.21,9830.06,0.18367348845395887,Feb-2025
+ORD-0436,2025-07-17,East,Guwahati,Marketplace,Consumer,Kabir Mehta,Office Chair,Furniture,9,7640.85,0.15,58452.5,53638.77,4813.73,58452.5,4813.73,0.08235285060519225,Jul-2025
+ORD-0437,2025-11-30,North,Jaipur,Online,Corporate,Priya Verma,Monitor,Electronics,6,11894.1,0.1,64228.14,58518.97,5709.17,64228.14,5709.17,0.08888892002788809,Nov-2025
+ORD-0438,2025-04-18,South,Kochi,Online,Corporate,Rohan Singh,Monitor,Electronics,11,13212.41,0.08,133709.59,119175.94,14533.65,133709.59,14533.65,0.10869564404467921,Apr-2025
+ORD-0439,2025-01-13,North,Delhi,Retail Store,Small Business,Priya Verma,Printer,Electronics,12,9263.98,0.05,105609.37,93380.92,12228.45,105609.37,12228.45,0.11578944178911399,Jan-2025
+ORD-0440,2025-10-22,West,Surat,Corporate Sales,Consumer,Vihaan Gupta,Monitor,Electronics,5,12429.06,0.08,57173.68,50959.15,6214.53,57173.68,6214.53,0.10869564456931931,Oct-2025
+ORD-0441,2025-12-11,North,Delhi,Online,Small Business,Priya Verma,Wireless Mouse,Accessories,9,875.33,0.0,7877.97,5357.02,2520.95,7877.97,2520.95,0.3199999492254984,Dec-2025
+ORD-0442,2025-05-29,West,Surat,Marketplace,Corporate,Aarav Sharma,Office Chair,Furniture,10,7639.42,0.0,76394.2,59587.48,16806.72,76394.2,16806.72,0.2199999476400041,May-2025
+ORD-0443,2025-08-31,West,Ahmedabad,Retail Store,Small Business,Isha Kapoor,Keyboard,Accessories,9,1726.37,0.02,15226.58,11186.88,4039.7,15226.58,4039.7,0.2653058007773249,Aug-2025
+ORD-0444,2025-01-06,North,Chandigarh,Online,Small Business,Ananya Joshi,Webcam,Accessories,9,3063.21,0.02,27017.51,20676.67,6340.84,27017.51,6340.84,0.23469372270057456,Jan-2025
+ORD-0445,2025-06-26,South,Chennai,Retail Store,Consumer,Kabir Mehta,Monitor,Electronics,7,13240.05,0.15,78778.3,75997.89,2780.41,78778.3,2780.41,0.035294110180087664,Jun-2025
+ORD-0446,2025-04-10,North,Chandigarh,Online,Small Business,Priya Verma,Wireless Mouse,Accessories,3,894.16,0.15,2280.11,1824.09,456.02,2280.11,456.02,0.19999912284933619,Apr-2025
+ORD-0447,2025-05-09,East,Bhubaneswar,Retail Store,Corporate,Ananya Joshi,Wireless Mouse,Accessories,4,868.09,0.15,2951.51,2361.2,590.31,2951.51,590.31,0.20000271047701004,May-2025
+ORD-0448,2025-02-21,East,Guwahati,Marketplace,Small Business,Kabir Mehta,Office Chair,Furniture,10,8314.93,0.0,83149.3,64856.45,18292.85,83149.3,18292.85,0.2200000481062378,Feb-2025
+ORD-0449,2025-12-22,East,Guwahati,Retail Store,Consumer,Isha Kapoor,External SSD,Electronics,3,6320.04,0.1,17064.11,14978.49,2085.62,17064.11,2085.62,0.12222260639435634,Dec-2025
+ORD-0450,2025-05-07,East,Bhubaneswar,Retail Store,Corporate,Isha Kapoor,Monitor,Electronics,12,12871.47,0.15,131288.99,126655.26,4633.73,131288.99,4633.73,0.03529412481579758,May-2025
+ORD-0451,2025-09-03,West,Mumbai,Retail Store,Corporate,Priya Verma,Printer,Electronics,8,10274.98,0.05,78089.85,69047.87,9041.98,78089.85,9041.98,0.11578943998483797,Sep-2025
+ORD-0452,2025-05-24,North,Delhi,Online,Corporate,Aarav Sharma,Keyboard,Accessories,9,1758.34,0.02,15508.56,11394.04,4114.52,15508.56,4114.52,0.26530638563477205,May-2025
+ORD-0453,2025-10-25,North,Dehradun,Marketplace,Corporate,Rohan Singh,External SSD,Electronics,7,6012.68,0.1,37879.88,33250.12,4629.76,37879.88,4629.76,0.1222221400912569,Oct-2025
+ORD-0454,2025-07-07,East,Patna,Marketplace,Corporate,Priya Verma,Headphones,Accessories,4,2502.36,0.1,9008.5,7006.61,2001.89,9008.5,2001.89,0.2222223455625243,Jul-2025
+ORD-0455,2025-07-23,South,Chennai,Marketplace,Consumer,Rohan Singh,Desk,Furniture,9,6609.76,0.0,59487.84,47590.27,11897.57,59487.84,11897.57,0.20000003362031635,Jul-2025
+ORD-0456,2025-10-17,West,Ahmedabad,Online,Consumer,Sara Khan,External SSD,Electronics,11,6466.78,0.02,69711.89,56196.32,13515.57,69711.89,13515.57,0.19387754370165547,Oct-2025
+ORD-0457,2025-04-29,South,Hyderabad,Marketplace,Small Business,Sara Khan,Wireless Mouse,Accessories,5,826.85,0.05,3927.54,2811.29,1116.25,3927.54,1116.25,0.2842109819378033,Apr-2025
+ORD-0458,2025-01-24,East,Bhubaneswar,Retail Store,Small Business,Vihaan Gupta,Laptop,Electronics,11,49631.48,0.05,518648.97,464054.34,54594.63,518648.97,54594.63,0.10526316093908371,Jan-2025
+ORD-0459,2025-07-07,West,Pune,Marketplace,Small Business,Isha Kapoor,External SSD,Electronics,11,6276.46,0.0,69041.06,54542.44,14498.62,69041.06,14498.62,0.2099999623412503,Jul-2025
+ORD-0460,2025-09-07,South,Kochi,Retail Store,Consumer,Priya Verma,Printer,Electronics,10,9900.52,0.0,99005.2,83164.37,15840.83,99005.2,15840.83,0.15999997979904088,Sep-2025
+ORD-0461,2025-09-21,East,Kolkata,Retail Store,Small Business,Isha Kapoor,Office Chair,Furniture,4,7536.1,0.02,29541.51,23512.63,6028.88,29541.51,6028.88,0.20408164646966254,Sep-2025
+ORD-0462,2025-02-28,South,Kochi,Online,Consumer,Aarav Sharma,Printer,Electronics,11,9869.22,0.08,99876.51,91191.59,8684.92,99876.51,8684.92,0.08695658268395642,Feb-2025
+ORD-0463,2025-03-07,North,Jaipur,Online,Consumer,Kabir Mehta,External SSD,Electronics,10,5944.94,0.02,58260.41,46965.03,11295.38,58260.41,11295.38,0.19387745469007167,Mar-2025
+ORD-0464,2025-04-03,North,Dehradun,Online,Consumer,Sara Khan,Webcam,Accessories,7,3442.22,0.1,21685.99,18071.65,3614.34,21685.99,3614.34,0.16666705093933917,Apr-2025
+ORD-0465,2025-11-07,West,Pune,Retail Store,Corporate,Kabir Mehta,Printer,Electronics,8,9512.97,0.02,74581.68,63927.16,10654.52,74581.68,10654.52,0.14285706623932312,Nov-2025
+ORD-0466,2025-03-27,South,Kochi,Marketplace,Consumer,Priya Verma,Desk,Furniture,8,6545.17,0.1,47125.22,41889.09,5236.13,47125.22,5236.13,0.1111109932218884,Mar-2025
+ORD-0467,2025-01-09,South,Bengaluru,Retail Store,Small Business,Aarav Sharma,Monitor,Electronics,9,12947.64,0.1,104875.88,95553.58,9322.3,104875.88,9322.3,0.08888888465107514,Jan-2025
+ORD-0468,2025-09-30,South,Bengaluru,Marketplace,Corporate,Vihaan Gupta,Webcam,Accessories,2,3224.04,0.0,6448.08,4836.06,1612.02,6448.08,1612.02,0.25,Sep-2025
+ORD-0469,2025-07-09,West,Surat,Corporate Sales,Corporate,Priya Verma,Laptop,Electronics,12,52002.8,0.1,561630.24,530428.56,31201.68,561630.24,31201.68,0.05555555555555556,Jul-2025
+ORD-0470,2025-08-06,North,Dehradun,Marketplace,Small Business,Ananya Joshi,Keyboard,Accessories,5,1885.0,0.08,8671.0,6786.0,1885.0,8671.0,1885.0,0.21739130434782608,Aug-2025
+ORD-0471,2025-01-03,North,Chandigarh,Retail Store,Corporate,Isha Kapoor,Laptop,Electronics,10,49737.79,0.1,447640.11,422771.22,24868.89,447640.11,24868.89,0.05555554438586837,Jan-2025
+ORD-0472,2025-07-29,East,Bhubaneswar,Marketplace,Corporate,Isha Kapoor,Desk,Furniture,2,6397.76,0.02,12539.61,10236.42,2303.19,12539.61,2303.19,0.18367317643850167,Jul-2025
+ORD-0473,2025-11-10,West,Surat,Retail Store,Small Business,Sara Khan,Office Chair,Furniture,11,8156.43,0.08,82543.07,69982.17,12560.9,82543.07,12560.9,0.15217388934043766,Nov-2025
+ORD-0474,2025-05-10,West,Pune,Online,Corporate,Ananya Joshi,Office Chair,Furniture,10,8177.42,0.05,77685.49,63783.88,13901.61,77685.49,13901.61,0.17894731693138577,May-2025
+ORD-0475,2025-08-17,East,Kolkata,Retail Store,Small Business,Aarav Sharma,Keyboard,Accessories,2,1820.1,0.02,3567.4,2620.94,946.46,3567.4,946.46,0.2653080675001402,Aug-2025
+ORD-0476,2025-02-16,North,Dehradun,Retail Store,Small Business,Priya Verma,Keyboard,Accessories,8,1801.72,0.1,12972.38,10377.91,2594.47,12972.38,2594.47,0.19999953747885893,Feb-2025
+ORD-0477,2025-11-08,West,Ahmedabad,Online,Consumer,Sara Khan,Laptop,Electronics,12,55655.39,0.08,614435.51,567684.98,46750.53,614435.51,46750.53,0.07608695988290129,Nov-2025
+ORD-0478,2025-08-13,East,Patna,Online,Corporate,Ananya Joshi,Laptop,Electronics,4,55655.92,0.15,189230.13,189230.13,0.0,189230.13,0.0,0.0,Aug-2025
+ORD-0479,2025-11-11,North,Jaipur,Online,Small Business,Vihaan Gupta,Keyboard,Accessories,11,1782.65,0.0,19609.15,14118.59,5490.56,19609.15,5490.56,0.27999989800679786,Nov-2025
+ORD-0480,2025-06-30,North,Delhi,Online,Corporate,Kabir Mehta,Headphones,Accessories,7,2323.3,0.1,14636.79,11384.17,3252.62,14636.79,3252.62,0.2222222222222222,Jun-2025
+ORD-0481,2025-10-14,East,Patna,Retail Store,Small Business,Vihaan Gupta,External SSD,Electronics,6,6664.13,0.05,37985.54,31587.98,6397.56,37985.54,6397.56,0.16842093070152486,Oct-2025
+ORD-0482,2025-10-22,North,Delhi,Corporate Sales,Small Business,Priya Verma,Laptop,Electronics,5,51843.94,0.02,254035.31,220336.74,33698.57,254035.31,33698.57,0.13265309456390137,Oct-2025
+ORD-0483,2025-09-20,West,Surat,Marketplace,Consumer,Isha Kapoor,Office Chair,Furniture,9,7605.15,0.1,61601.71,53388.15,8213.56,61601.72,8213.57,0.13333345237762842,Sep-2025
+ORD-0484,2025-08-23,East,Kolkata,Marketplace,Corporate,Ananya Joshi,Printer,Electronics,10,9873.26,0.0,98732.6,82935.38,15797.22,98732.6,15797.22,0.16000004051346767,Aug-2025
+ORD-0485,2025-12-13,North,Dehradun,Retail Store,Small Business,Priya Verma,Monitor,Electronics,6,13422.03,0.08,74089.61,66036.39,8053.22,74089.61,8053.22,0.10869567271308353,Dec-2025
+ORD-0486,2025-07-24,West,Ahmedabad,Corporate Sales,Consumer,Kabir Mehta,Desk,Furniture,2,6850.53,0.1,12330.95,10960.85,1370.1,12330.95,1370.1,0.11111066057359732,Jul-2025
+ORD-0487,2025-04-04,South,Hyderabad,Retail Store,Consumer,Ananya Joshi,Monitor,Electronics,8,12099.42,0.15,82276.06,79372.2,2903.86,82276.06,2903.86,0.03529410620780821,Apr-2025
+ORD-0488,2025-05-08,North,Delhi,Marketplace,Corporate,Aarav Sharma,External SSD,Electronics,6,6504.12,0.02,38244.23,30829.53,7414.7,38244.23,7414.7,0.19387761238754184,May-2025
+ORD-0489,2025-10-05,West,Ahmedabad,Marketplace,Consumer,Kabir Mehta,Laptop,Electronics,8,53398.46,0.05,405828.3,363109.53,42718.77,405828.3,42718.77,0.10526316178541516,Oct-2025
+ORD-0490,2025-07-23,West,Surat,Online,Corporate,Isha Kapoor,Monitor,Electronics,10,11844.76,0.02,116078.65,97127.03,18951.62,116078.65,18951.62,0.16326533776883173,Jul-2025
+ORD-0491,2025-07-21,West,Ahmedabad,Online,Consumer,Ananya Joshi,Keyboard,Accessories,8,1867.96,0.0,14943.68,10759.45,4184.23,14943.68,4184.23,0.2799999732328315,Jul-2025
+ORD-0492,2025-07-14,East,Patna,Corporate Sales,Consumer,Kabir Mehta,External SSD,Electronics,2,6141.87,0.05,11669.55,9704.15,1965.4,11669.55,1965.4,0.1684212330381206,Jul-2025
+ORD-0493,2025-08-30,West,Pune,Marketplace,Corporate,Isha Kapoor,External SSD,Electronics,6,5987.64,0.05,34129.55,28381.41,5748.14,34129.55,5748.14,0.16842120684275064,Aug-2025
+ORD-0494,2025-07-06,South,Chennai,Online,Corporate,Kabir Mehta,Headphones,Accessories,5,2316.44,0.08,10655.62,8107.54,2548.08,10655.62,2548.08,0.23913014916072456,Jul-2025
+ORD-0495,2025-05-01,South,Kochi,Online,Consumer,Vihaan Gupta,Webcam,Accessories,7,3095.84,0.08,19937.21,16253.16,3684.05,19937.21,3684.05,0.18478262505134874,May-2025
+ORD-0496,2025-09-13,East,Guwahati,Corporate Sales,Small Business,Aarav Sharma,Keyboard,Accessories,11,1826.56,0.1,18082.94,14466.36,3616.58,18082.94,3616.58,0.19999955759406382,Sep-2025
+ORD-0497,2025-07-23,East,Guwahati,Online,Small Business,Isha Kapoor,Wireless Mouse,Accessories,12,806.14,0.02,9480.21,6578.1,2902.11,9480.21,2902.11,0.3061229656305082,Jul-2025
+ORD-0498,2025-05-14,East,Bhubaneswar,Online,Small Business,Priya Verma,Desk,Furniture,6,6515.51,0.1,35183.75,31274.45,3909.3,35183.75,3909.3,0.11111095320993357,May-2025
+ORD-0499,2025-06-29,South,Hyderabad,Corporate Sales,Small Business,Sara Khan,External SSD,Electronics,4,6327.88,0.1,22780.37,19996.1,2784.27,22780.37,2784.27,0.12222233440457728,Jun-2025
+ORD-0500,2025-08-17,South,Chennai,Corporate Sales,Small Business,Vihaan Gupta,Wireless Mouse,Accessories,7,833.1,0.1,5248.53,3965.56,1282.97,5248.53,1282.97,0.24444368232628946,Aug-2025
+ORD-0501,2025-02-06,East,Bhubaneswar,Corporate Sales,Corporate,Vihaan Gupta,Wireless Mouse,Accessories,3,826.16,0.05,2354.56,1685.37,669.19,2354.56,669.19,0.2842102133731993,Feb-2025
+ORD-0502,2025-05-19,West,Surat,Retail Store,Consumer,Aarav Sharma,Printer,Electronics,6,10017.25,0.15,51087.97,50486.94,601.03,51087.98,601.04,0.011764802601316394,May-2025
+ORD-0503,2025-03-06,North,Jaipur,Retail Store,Small Business,Priya Verma,Monitor,Electronics,11,13395.77,0.05,139985.8,120829.85,19155.95,139985.8,19155.95,0.13684209398381839,Mar-2025
+ORD-0504,2025-02-18,West,Mumbai,Online,Small Business,Rohan Singh,Wireless Mouse,Accessories,8,805.41,0.1,5798.95,4381.43,1417.52,5798.95,1417.52,0.244444252838876,Feb-2025
+ORD-0505,2025-02-13,East,Guwahati,Retail Store,Consumer,Rohan Singh,Headphones,Accessories,5,2339.13,0.02,11461.74,8186.96,3274.78,11461.74,3274.78,0.28571403643774856,Feb-2025
+ORD-0506,2025-01-15,East,Guwahati,Marketplace,Corporate,Kabir Mehta,Laptop,Electronics,11,55143.48,0.05,576249.37,515591.54,60657.83,576249.37,60657.83,0.10526316063477865,Jan-2025
+ORD-0507,2025-10-08,West,Surat,Corporate Sales,Small Business,Sara Khan,Printer,Electronics,3,9951.9,0.15,25377.34,25078.79,298.55,25377.34,298.55,0.011764432363675626,Oct-2025
+ORD-0508,2025-10-04,West,Ahmedabad,Retail Store,Small Business,Aarav Sharma,Monitor,Electronics,2,12288.77,0.08,22611.34,20153.58,2457.76,22611.34,2457.76,0.10869590214467609,Oct-2025
+ORD-0509,2025-01-01,North,Chandigarh,Marketplace,Small Business,Aarav Sharma,Webcam,Accessories,3,3136.47,0.05,8938.94,7057.06,1881.88,8938.94,1881.88,0.21052608027349998,Jan-2025
+ORD-0510,2025-08-09,East,Patna,Marketplace,Corporate,Vihaan Gupta,Office Chair,Furniture,10,8202.07,0.02,80380.29,63976.15,16404.14,80380.29,16404.14,0.20408162249725648,Aug-2025
+ORD-0511,2025-07-22,West,Surat,Retail Store,Small Business,Priya Verma,Monitor,Electronics,3,13039.96,0.15,33251.9,32078.3,1173.6,33251.9,1173.6,0.03529422378871583,Jul-2025
+ORD-0512,2025-08-05,East,Bhubaneswar,Corporate Sales,Small Business,Ananya Joshi,Monitor,Electronics,9,13163.26,0.1,106622.41,97144.86,9477.55,106622.41,9477.55,0.08888891181506776,Aug-2025
+ORD-0513,2025-02-05,West,Surat,Corporate Sales,Corporate,Sara Khan,Keyboard,Accessories,3,1719.81,0.05,4901.46,3714.79,1186.67,4901.46,1186.67,0.24210541348904205,Feb-2025
+ORD-0514,2025-04-07,North,Jaipur,Online,Small Business,Kabir Mehta,Desk,Furniture,1,6060.47,0.02,5939.26,4848.38,1090.88,5939.26,1090.88,0.18367271343568056,Apr-2025
+ORD-0515,2025-03-06,South,Bengaluru,Marketplace,Consumer,Isha Kapoor,Printer,Electronics,12,9531.42,0.0,114377.04,96076.71,18300.33,114377.04,18300.33,0.16000003147484848,Mar-2025
+ORD-0516,2025-08-04,North,Dehradun,Online,Consumer,Aarav Sharma,Office Chair,Furniture,8,7838.34,0.05,59571.38,48911.24,10660.14,59571.38,10660.14,0.17894734014891042,Aug-2025
+ORD-0517,2025-05-17,South,Hyderabad,Marketplace,Consumer,Priya Verma,Headphones,Accessories,2,2413.97,0.1,4345.15,3379.56,965.59,4345.15,965.59,0.2222224779351691,May-2025
+ORD-0518,2025-05-08,North,Jaipur,Marketplace,Corporate,Priya Verma,Headphones,Accessories,8,2503.84,0.02,19630.11,14021.5,5608.61,19630.11,5608.61,0.2857146495867827,May-2025
+ORD-0519,2025-09-24,East,Bhubaneswar,Retail Store,Corporate,Aarav Sharma,Monitor,Electronics,8,12942.52,0.08,95256.95,84902.93,10354.02,95256.95,10354.02,0.10869569097058011,Sep-2025
+ORD-0520,2025-10-09,East,Patna,Corporate Sales,Consumer,Ananya Joshi,Webcam,Accessories,2,3223.59,0.05,6124.82,4835.39,1289.43,6124.82,1289.43,0.21052537054150164,Oct-2025
+ORD-0521,2025-02-27,South,Hyderabad,Online,Small Business,Ananya Joshi,Monitor,Electronics,11,12317.9,0.08,124657.15,111107.46,13549.69,124657.15,13549.69,0.10869565042999942,Feb-2025
+ORD-0522,2025-01-05,South,Hyderabad,Online,Consumer,Rohan Singh,Laptop,Electronics,10,52339.97,0.15,444889.74,444889.74,0.0,444889.74,0.0,0.0,Jan-2025
+ORD-0523,2025-09-13,North,Delhi,Corporate Sales,Corporate,Rohan Singh,Wireless Mouse,Accessories,11,839.27,0.1,8308.77,6277.74,2031.03,8308.77,2031.03,0.24444412349842393,Sep-2025
+ORD-0524,2025-12-26,East,Bhubaneswar,Marketplace,Corporate,Ananya Joshi,Webcam,Accessories,2,3226.55,0.02,6324.04,4839.83,1484.21,6324.04,1484.21,0.234693328947951,Dec-2025
+ORD-0525,2025-01-11,North,Chandigarh,Marketplace,Corporate,Kabir Mehta,Headphones,Accessories,6,2301.27,0.15,11736.48,9665.33,2071.15,11736.48,2071.15,0.17647113955802762,Jan-2025
+ORD-0526,2025-10-05,East,Bhubaneswar,Marketplace,Small Business,Rohan Singh,Printer,Electronics,4,9468.05,0.1,34084.98,31812.65,2272.33,34084.98,2272.33,0.06666660798979492,Oct-2025
+ORD-0527,2025-02-05,East,Bhubaneswar,Marketplace,Consumer,Vihaan Gupta,Webcam,Accessories,3,3140.46,0.08,8667.67,7066.04,1601.63,8667.67,1601.63,0.18478206946042017,Feb-2025
+ORD-0528,2025-04-05,South,Hyderabad,Online,Corporate,Vihaan Gupta,Laptop,Electronics,10,54529.4,0.05,518029.3,463499.9,54529.4,518029.3,54529.4,0.10526315789473685,Apr-2025
+ORD-0529,2025-04-08,South,Hyderabad,Corporate Sales,Small Business,Isha Kapoor,Webcam,Accessories,11,3351.05,0.08,33912.63,27646.16,6266.47,33912.63,6266.47,0.18478277856951822,Apr-2025
+ORD-0530,2025-02-26,South,Chennai,Online,Consumer,Priya Verma,Wireless Mouse,Accessories,9,806.93,0.15,6173.01,4938.41,1234.6,6173.01,1234.6,0.1999996760089486,Feb-2025
+ORD-0531,2025-09-06,West,Surat,Corporate Sales,Consumer,Isha Kapoor,Monitor,Electronics,2,12749.27,0.0,25498.54,20908.8,4589.74,25498.54,4589.74,0.18000010981020872,Sep-2025
+ORD-0532,2025-04-24,South,Kochi,Online,Small Business,Aarav Sharma,External SSD,Electronics,12,5839.36,0.0,70072.32,55357.13,14715.19,70072.32,14715.19,0.2100000399587169,Apr-2025
+ORD-0533,2025-07-04,North,Dehradun,Online,Corporate,Priya Verma,Webcam,Accessories,12,3376.27,0.08,37274.02,30386.43,6887.59,37274.02,6887.59,0.18478259119891013,Jul-2025
+ORD-0534,2025-06-05,South,Kochi,Retail Store,Consumer,Ananya Joshi,Wireless Mouse,Accessories,4,810.56,0.1,2918.02,2204.72,713.3,2918.02,713.3,0.24444657678837017,Jun-2025
+ORD-0535,2025-10-19,North,Dehradun,Marketplace,Corporate,Vihaan Gupta,Keyboard,Accessories,9,1832.65,0.15,14019.77,11875.57,2144.2,14019.77,2144.2,0.15294116807907687,Oct-2025
+ORD-0536,2025-02-23,East,Patna,Marketplace,Small Business,Isha Kapoor,Keyboard,Accessories,3,1793.19,0.1,4841.61,3873.29,968.32,4841.61,968.32,0.19999958691427028,Feb-2025
+ORD-0537,2025-10-09,West,Ahmedabad,Retail Store,Corporate,Ananya Joshi,Desk,Furniture,6,6700.71,0.08,36987.92,32163.41,4824.51,36987.92,4824.51,0.13043474734453844,Oct-2025
+ORD-0538,2025-07-12,West,Surat,Marketplace,Consumer,Aarav Sharma,Webcam,Accessories,12,3169.28,0.05,36129.79,28523.52,7606.27,36129.79,7606.27,0.21052627208738275,Jul-2025
+ORD-0539,2025-05-26,East,Kolkata,Corporate Sales,Consumer,Ananya Joshi,External SSD,Electronics,1,5945.25,0.1,5350.73,4696.75,653.98,5350.72,653.97,0.12222093475270618,May-2025
+ORD-0540,2025-06-11,South,Bengaluru,Online,Small Business,Isha Kapoor,Laptop,Electronics,12,55571.14,0.05,633511.0,566825.63,66685.37,633511.0,66685.37,0.10526316038711245,Jun-2025
+ORD-0541,2025-03-21,South,Chennai,Corporate Sales,Small Business,Priya Verma,Keyboard,Accessories,5,1916.19,0.05,9101.9,6898.28,2203.62,9101.9,2203.62,0.24210549445720125,Mar-2025
+ORD-0542,2025-10-20,East,Guwahati,Retail Store,Small Business,Priya Verma,Headphones,Accessories,10,2502.71,0.02,24526.56,17518.97,7007.59,24526.56,7007.59,0.2857143439601803,Oct-2025
+ORD-0543,2025-11-01,West,Mumbai,Online,Small Business,Isha Kapoor,Office Chair,Furniture,1,8214.71,0.15,6982.5,6407.47,575.03,6982.5,575.03,0.08235302542069459,Nov-2025
+ORD-0544,2025-08-11,North,Chandigarh,Online,Small Business,Aarav Sharma,Headphones,Accessories,2,2507.22,0.02,4914.15,3510.11,1404.04,4914.15,1404.04,0.28571370430288046,Aug-2025
+ORD-0545,2025-06-13,South,Chennai,Online,Corporate,Vihaan Gupta,Webcam,Accessories,10,3154.42,0.02,30913.32,23658.15,7255.17,30913.32,7255.17,0.23469397657708715,Jun-2025
+ORD-0546,2025-08-17,West,Ahmedabad,Marketplace,Consumer,Rohan Singh,External SSD,Electronics,10,5906.19,0.1,53155.71,46658.9,6496.81,53155.71,6496.81,0.1222222410348766,Aug-2025
+ORD-0547,2025-06-22,West,Ahmedabad,Online,Small Business,Vihaan Gupta,Wireless Mouse,Accessories,8,887.69,0.1,6391.37,4829.03,1562.34,6391.37,1562.34,0.24444524413388677,Jun-2025
+ORD-0548,2025-12-24,West,Surat,Retail Store,Corporate,Ananya Joshi,Keyboard,Accessories,3,1832.94,0.08,5058.91,3959.15,1099.76,5058.91,1099.76,0.21739070274031363,Dec-2025
+ORD-0549,2025-05-05,North,Delhi,Marketplace,Small Business,Isha Kapoor,Wireless Mouse,Accessories,5,837.49,0.08,3852.45,2847.47,1004.98,3852.45,1004.98,0.26086775947773494,May-2025
+ORD-0550,2025-06-28,North,Dehradun,Retail Store,Small Business,Sara Khan,Monitor,Electronics,6,12789.29,0.05,72898.95,62923.31,9975.64,72898.95,9975.64,0.1368420258453654,Jun-2025
+ORD-0551,2025-11-16,South,Chennai,Corporate Sales,Consumer,Priya Verma,Keyboard,Accessories,8,1924.9,0.0,15399.2,11087.42,4311.78,15399.2,4311.78,0.2800002597537534,Nov-2025
+ORD-0552,2025-02-27,East,Kolkata,Corporate Sales,Corporate,Priya Verma,Laptop,Electronics,4,55626.59,0.1,200255.72,189130.41,11125.31,200255.72,11125.31,0.055555516716326504,Feb-2025
+ORD-0553,2025-06-06,South,Chennai,Corporate Sales,Corporate,Sara Khan,Printer,Electronics,8,9667.33,0.0,77338.64,64964.46,12374.18,77338.64,12374.18,0.1599999689676467,Jun-2025
+ORD-0554,2025-11-15,West,Mumbai,Corporate Sales,Consumer,Aarav Sharma,Keyboard,Accessories,12,1860.4,0.15,18976.08,16073.86,2902.22,18976.08,2902.22,0.15294096567889678,Nov-2025
+ORD-0555,2025-05-26,West,Mumbai,Online,Small Business,Kabir Mehta,Monitor,Electronics,12,12224.74,0.1,132027.19,120291.44,11735.75,132027.19,11735.75,0.0888888872057339,May-2025
+ORD-0556,2025-12-06,West,Pune,Marketplace,Corporate,Priya Verma,Desk,Furniture,2,6278.08,0.0,12556.16,10044.93,2511.23,12556.16,2511.23,0.19999984071563282,Dec-2025
+ORD-0557,2025-06-11,South,Kochi,Online,Consumer,Ananya Joshi,Printer,Electronics,10,9332.76,0.1,83994.84,78395.18,5599.66,83994.84,5599.66,0.06666671428863964,Jun-2025
+ORD-0558,2025-09-29,South,Bengaluru,Corporate Sales,Corporate,Isha Kapoor,Office Chair,Furniture,6,7761.59,0.08,42843.98,36324.24,6519.74,42843.98,6519.74,0.1521740043758773,Sep-2025
+ORD-0559,2025-07-01,North,Dehradun,Marketplace,Consumer,Kabir Mehta,Office Chair,Furniture,4,7633.26,0.1,27479.74,23815.77,3663.97,27479.74,3663.97,0.13333350315541556,Jul-2025
+ORD-0560,2025-04-26,North,Chandigarh,Retail Store,Small Business,Ananya Joshi,Keyboard,Accessories,6,1857.55,0.08,10253.68,8024.62,2229.06,10253.68,2229.06,0.21739121954264223,Apr-2025
+ORD-0561,2025-10-21,East,Guwahati,Retail Store,Consumer,Rohan Singh,Keyboard,Accessories,7,1921.25,0.05,12776.31,9683.1,3093.21,12776.31,3093.21,0.24210511485710665,Oct-2025
+ORD-0562,2025-10-25,East,Patna,Marketplace,Consumer,Rohan Singh,Webcam,Accessories,11,3394.44,0.02,36592.06,28004.13,8587.93,36592.06,8587.93,0.23469381062449068,Oct-2025
+ORD-0563,2025-06-12,North,Jaipur,Corporate Sales,Consumer,Aarav Sharma,Wireless Mouse,Accessories,9,911.88,0.1,7386.23,5580.71,1805.52,7386.23,1805.52,0.24444405332625713,Jun-2025
+ORD-0564,2025-06-13,East,Patna,Retail Store,Consumer,Rohan Singh,Headphones,Accessories,7,2404.85,0.05,15992.25,11783.76,4208.49,15992.25,4208.49,0.2631580922009098,Jun-2025
+ORD-0565,2025-04-05,South,Chennai,Retail Store,Corporate,Aarav Sharma,Laptop,Electronics,10,50822.76,0.1,457404.84,431993.46,25411.38,457404.84,25411.38,0.05555555555555555,Apr-2025
+ORD-0566,2025-07-03,West,Ahmedabad,Retail Store,Small Business,Sara Khan,Wireless Mouse,Accessories,12,814.96,0.08,8997.16,6650.07,2347.09,8997.16,2347.09,0.26087009678609696,Jul-2025
+ORD-0567,2025-08-31,West,Mumbai,Corporate Sales,Small Business,Ananya Joshi,Keyboard,Accessories,3,1749.02,0.02,5142.12,3777.88,1364.24,5142.12,1364.24,0.2653069162135462,Aug-2025
+ORD-0568,2025-12-10,West,Surat,Corporate Sales,Small Business,Ananya Joshi,Monitor,Electronics,4,12059.89,0.0,48239.56,39556.44,8683.12,48239.56,8683.12,0.17999998341610082,Dec-2025
+ORD-0569,2025-08-07,West,Ahmedabad,Marketplace,Corporate,Aarav Sharma,Headphones,Accessories,1,2503.07,0.1,2252.76,1752.15,500.61,2252.76,500.61,0.2222207425557982,Aug-2025
+ORD-0570,2025-09-24,North,Jaipur,Marketplace,Corporate,Aarav Sharma,Wireless Mouse,Accessories,8,897.41,0.08,6604.94,4881.91,1723.03,6604.94,1723.03,0.26086989435180336,Sep-2025
+ORD-0571,2025-10-13,South,Hyderabad,Marketplace,Small Business,Kabir Mehta,Headphones,Accessories,9,2579.43,0.15,19732.64,16250.41,3482.23,19732.64,3482.23,0.17647055842502574,Oct-2025
+ORD-0572,2025-05-27,North,Jaipur,Marketplace,Corporate,Sara Khan,Printer,Electronics,3,9615.94,0.08,26539.99,24232.17,2307.82,26539.99,2307.82,0.08695632515309916,May-2025
+ORD-0573,2025-02-16,South,Kochi,Marketplace,Small Business,Sara Khan,Webcam,Accessories,2,3356.87,0.02,6579.47,5035.31,1544.16,6579.47,1544.16,0.23469367593438378,Feb-2025
+ORD-0574,2025-01-13,South,Kochi,Online,Small Business,Isha Kapoor,Keyboard,Accessories,8,1917.95,0.1,13809.24,11047.39,2761.85,13809.24,2761.85,0.20000014483056272,Jan-2025
+ORD-0575,2025-12-21,North,Chandigarh,Corporate Sales,Consumer,Vihaan Gupta,Keyboard,Accessories,12,1723.13,0.15,17575.93,14887.84,2688.09,17575.93,2688.09,0.15294155131478107,Dec-2025
+ORD-0576,2025-09-19,North,Jaipur,Corporate Sales,Corporate,Rohan Singh,External SSD,Electronics,3,6305.7,0.08,17403.73,14944.51,2459.22,17403.73,2459.22,0.14130419168764397,Sep-2025
+ORD-0577,2025-03-25,East,Bhubaneswar,Marketplace,Small Business,Rohan Singh,Keyboard,Accessories,3,1704.93,0.15,4347.57,3682.65,664.92,4347.57,664.92,0.1529406082018231,Mar-2025
+ORD-0578,2025-03-02,East,Kolkata,Marketplace,Small Business,Sara Khan,Keyboard,Accessories,4,1848.89,0.0,7395.56,5324.8,2070.76,7395.56,2070.76,0.28000043269204766,Mar-2025
+ORD-0579,2025-10-06,West,Surat,Marketplace,Small Business,Priya Verma,Laptop,Electronics,10,50611.75,0.08,465628.1,430199.88,35428.22,465628.1,35428.22,0.0760869457835556,Oct-2025
+ORD-0580,2025-11-04,East,Patna,Online,Consumer,Rohan Singh,External SSD,Electronics,1,6593.72,0.02,6461.85,5209.04,1252.81,6461.85,1252.81,0.193877914219612,Nov-2025
+ORD-0581,2025-01-29,East,Bhubaneswar,Online,Consumer,Priya Verma,Desk,Furniture,1,6781.03,0.02,6645.41,5424.82,1220.59,6645.41,1220.59,0.18367414501136875,Jan-2025
+ORD-0582,2025-08-02,South,Kochi,Corporate Sales,Consumer,Priya Verma,Keyboard,Accessories,3,1763.66,0.15,4497.33,3809.51,687.82,4497.33,687.82,0.1529396330711778,Aug-2025
+ORD-0583,2025-06-03,West,Mumbai,Corporate Sales,Small Business,Rohan Singh,Desk,Furniture,6,6750.96,0.08,37265.3,32404.61,4860.69,37265.3,4860.69,0.13043474760702314,Jun-2025
+ORD-0584,2025-03-04,South,Chennai,Online,Consumer,Priya Verma,Office Chair,Furniture,6,7783.82,0.1,42032.63,36428.28,5604.35,42032.63,5604.35,0.1333333174726397,Mar-2025
+ORD-0585,2025-09-05,East,Bhubaneswar,Corporate Sales,Consumer,Sara Khan,External SSD,Electronics,12,6198.68,0.05,70664.95,58763.49,11901.46,70664.95,11901.46,0.16842097815112017,Sep-2025
+ORD-0586,2025-09-24,South,Hyderabad,Retail Store,Consumer,Priya Verma,Printer,Electronics,8,10424.39,0.02,81727.22,70051.9,11675.32,81727.22,11675.32,0.1428571778166442,Sep-2025
+ORD-0587,2025-01-13,South,Kochi,Marketplace,Consumer,Isha Kapoor,Printer,Electronics,11,10223.81,0.0,112461.91,94468.0,17993.91,112461.91,17993.91,0.16000003912435773,Jan-2025
+ORD-0588,2025-06-29,South,Hyderabad,Corporate Sales,Consumer,Kabir Mehta,Webcam,Accessories,11,3013.06,0.02,32480.79,24857.74,7623.05,32480.79,7623.05,0.23469410688594705,Jun-2025
+ORD-0589,2025-06-03,North,Dehradun,Corporate Sales,Small Business,Aarav Sharma,Webcam,Accessories,9,3351.63,0.05,28656.44,22623.5,6032.94,28656.44,6032.94,0.21052649945352597,Jun-2025
+ORD-0590,2025-03-31,West,Surat,Online,Corporate,Rohan Singh,Monitor,Electronics,6,13363.99,0.05,76174.74,65750.83,10423.91,76174.74,10423.91,0.13684208177146387,Mar-2025
+ORD-0591,2025-09-04,East,Guwahati,Marketplace,Corporate,Aarav Sharma,Keyboard,Accessories,11,1916.8,0.08,19398.02,15181.06,4216.96,19398.02,4216.96,0.21739125952030156,Sep-2025
+ORD-0592,2025-09-24,North,Jaipur,Corporate Sales,Small Business,Priya Verma,Office Chair,Furniture,10,8072.59,0.15,68617.01,62966.2,5650.81,68617.02,5650.82,0.08235303719106425,Sep-2025
+ORD-0593,2025-03-18,South,Kochi,Retail Store,Corporate,Priya Verma,Office Chair,Furniture,1,8406.11,0.05,7985.8,6556.77,1429.03,7985.8,1429.03,0.17894637982418793,Mar-2025
+ORD-0594,2025-06-07,North,Chandigarh,Retail Store,Small Business,Sara Khan,Desk,Furniture,12,6259.26,0.0,75111.12,60088.9,15022.22,75111.12,15022.22,0.19999994674556842,Jun-2025
+ORD-0595,2025-06-04,East,Kolkata,Retail Store,Consumer,Sara Khan,Monitor,Electronics,9,12056.27,0.05,103081.11,88975.27,14105.84,103081.11,14105.84,0.13684214304638356,Jun-2025
+ORD-0596,2025-09-17,East,Guwahati,Corporate Sales,Small Business,Rohan Singh,Laptop,Electronics,8,50001.69,0.1,360012.17,340011.49,20000.68,360012.17,20000.68,0.05555556635765952,Sep-2025
+ORD-0597,2025-02-20,North,Chandigarh,Marketplace,Corporate,Priya Verma,Webcam,Accessories,11,3099.92,0.02,33417.14,25574.34,7842.8,33417.14,7842.8,0.2346939325148711,Feb-2025
+ORD-0598,2025-01-03,North,Dehradun,Marketplace,Consumer,Priya Verma,Office Chair,Furniture,1,8258.15,0.15,7019.43,6441.36,578.07,7019.43,578.07,0.08235284061526364,Jan-2025
+ORD-0599,2025-09-24,South,Hyderabad,Retail Store,Consumer,Kabir Mehta,Office Chair,Furniture,1,8160.28,0.1,7344.25,6365.02,979.23,7344.25,979.23,0.1333328794635259,Sep-2025
+ORD-0600,2025-05-22,East,Patna,Retail Store,Small Business,Priya Verma,Webcam,Accessories,6,3308.66,0.08,18263.8,14888.97,3374.83,18263.8,3374.83,0.18478246586143082,May-2025

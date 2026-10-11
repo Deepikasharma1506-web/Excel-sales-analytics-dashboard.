@@ -1,0 +1,16 @@
+Column,Meaning,Expected_Format
+Order_ID,Unique order identifier,Text
+Order_Date,Date the order was placed,YYYY-MM-DD
+Region,Sales region,North/South/East/West
+City,Customer city,City within the selected region
+Sales_Channel,Channel where sale occurred,Online/Retail Store/Corporate Sales/Marketplace
+Customer_Segment,Customer type,Consumer/Small Business/Corporate
+Sales_Rep,Employee responsible for the sale,Name
+Product,Product sold,Product name
+Category,Product category,Electronics/Accessories/Furniture
+Quantity,Units sold,Whole number
+Unit_Price_INR,Price per unit before discount,INR
+Discount_Rate,Discount applied to the order,"Decimal rate, e.g. 0.05 = 5%"
+Revenue_INR,Revenue after discount,INR
+Estimated_Cost_INR,Estimated product cost for the order,INR
+Profit_INR,Revenue minus estimated cost,INR
